@@ -4,30 +4,30 @@ title: "SQL Injection Tutorial"
 date: 2016-04-15
 ---
 
-SQL stands for ``S``tructrued ``Q``uery ``L``anguage.
+SQL stands for **S**tructrued **Q**uery **L**anguage.
 
 Some properties of SQL are:
 
- * Tabular Database
- * Organized Layout (schema)
+ - Tabular Database
+ - Organized Layout (schema)
 
 There are many different flavors of SQL, such as:
 
- * PostreSQL
- * MSSQL
- * MySQL
- * MariaDB
- * SQLite
- * ... and many, many more
+ - PostreSQL
+ - MSSQL
+ - MySQL
+ - MariaDB
+ - SQLite
+ - ... and many, many more
 
 Lots and lots of large products use SQL:
 
- * Android
- * iOS
- * Mozilla Firefox
- * Oracle
- * Microsoft
- * A lot... of websites...
+ - Android
+ - iOS
+ - Mozilla Firefox
+ - Oracle
+ - Microsoft
+ - A lot... of websites...
 
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
