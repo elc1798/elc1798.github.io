@@ -44,7 +44,8 @@ As a demonstration, we can use Python's SQLite3 library as a quick demonstration
 ```
 
 <pre>
-    <code class="python">
+    <div class="codeblock">
+        <code class="python">
 &lt;&lt;&lt; import sqlite3
 &lt;&lt;&lt; conn = sqlite3.connect("mydb.db")
 &lt;&lt;&lt; c = conn.cursor()
@@ -54,7 +55,8 @@ As a demonstration, we can use Python's SQLite3 library as a quick demonstration
 &gt;sqlite3.Cursor object at 0x10aad31f0&lt;
 &lt;&lt;&lt; c.execute("SELECT * FROM table1").fetchall()
 [(u'yo', 1)]
-  </code>
+    </code>
+  </div>
 </pre>
 
 The above creates a database called `mydb.db`. Then it creates a `cursor` object
