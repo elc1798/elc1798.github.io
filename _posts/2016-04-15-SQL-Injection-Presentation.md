@@ -8,26 +8,26 @@ SQL stands for **S**tructrued **Q**uery **L**anguage.
 
 Some properties of SQL are:
 
-- Tabular Database
-- Organized Layout (schema)
+1. Tabular Database
+2. Organized Layout (schema)
 
 There are many different flavors of SQL, such as:
 
-- PostreSQL
-- MSSQL
-- MySQL
-- MariaDB
-- SQLite
-- ... and many, many more
+1. PostreSQL
+2. MSSQL
+3. MySQL
+4. MariaDB
+5. SQLite
+6. ... and many, many more
 
 Lots and lots of large products use SQL:
 
-- Android
-- iOS
-- Mozilla Firefox
-- Oracle
-- Microsoft
-- A lot... of websites...
+1. Android
+2. iOS
+3. Mozilla Firefox
+4. Oracle
+5. Microsoft
+6. A lot... of websites...
 
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
