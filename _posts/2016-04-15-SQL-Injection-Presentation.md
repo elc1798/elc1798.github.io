@@ -55,3 +55,13 @@ CREATE TABLE table1(a text, b integer)
 This creates a table in the database called `table1` with the fields `a`, an
 integer, and `b`, a text field.
 
+The next command: `INSERT INTO table1 VALUES ('yo', 1)` will insert the row `yo, 1`
+into `table1`.
+
+The next command is what we care about in SQL injection:
+
+```
+SELECT * FROM table1
+```
+This is called a query. This particular query returns the entire table.
+
