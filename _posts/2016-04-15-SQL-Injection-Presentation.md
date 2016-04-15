@@ -32,6 +32,7 @@ Lots and lots of large products use SQL:
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
 <div class="codeblock">
+
 ```python
 >>> import sqlite3
 >>> conn = sqlite3.connect("mydb.db")
@@ -43,6 +44,7 @@ As a demonstration, we can use Python's SQLite3 library as a quick demonstration
 >>> c.execute("SELECT * FROM table1").fetchall()
 [(u'yo', 1)]
 ```
+
 </div>
 
 The above creates a database called `mydb.db`. Then it creates a `cursor` object
