@@ -32,19 +32,24 @@ Lots and lots of large products use SQL:
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
 <div class="codeblock">
-
-```python
->>> import sqlite3
->>> conn = sqlite3.connect("mydb.db")
->>> c = conn.cursor()
->>> c.execute("CREATE TABLE table1(a text, b integer)")
-<sqlite3.Cursor object at 0x10aad31f0>
->>> c.execute("INSERT INTO table1 VALUES ('yo', 1)")
-<sqlite3.Cursor object at 0x10aad31f0>
->>> c.execute("SELECT * FROM table1").fetchall()
+&gt;&gt;&gt; import sqlite3
+<br>
+&gt;&gt;&gt; conn = sqlite3.connect("mydb.db")
+<br>
+&gt;&gt;&gt; c = conn.cursor()
+<br>
+&gt;&gt;&gt; c.execute("CREATE TABLE table1(a text, b integer)")
+<br>
+&lt;sqlite3.Cursor object at 0x10aad31f0&gt;
+<br>
+&gt;&gt;&gt; c.execute("INSERT INTO table1 VALUES ('yo', 1)")
+<br>
+&gt;sqlite3.Cursor object at 0x10aad31f0&gt;
+<br>
+&gt;&gt;&gt; c.execute("SELECT * FROM table1").fetchall()
+<br>
 [(u'yo', 1)]
-```
-
+<br>
 </div>
 
 The above creates a database called `mydb.db`. Then it creates a `cursor` object

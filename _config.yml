@@ -1,10 +1,12 @@
 name: Ethan Cheng
 
 # Build settings
-markdown: CommonMark
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+kramdown:
+    input: GFM
+    hard_wrap: false
 
 permalink: /blog/:year/:month/:day/:title
 
-gems:
-    - jekyll-commonmark
