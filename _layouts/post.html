@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> {{ page.title }} </title>
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+        <!-- Icons -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper grey darken-3 blue-grey-text text-lighten-3" style="padding-left:6px;padding-right:2px">
+                <a href="/" class="brand-logo">
+                    <i class="material-icons left">
+                        explicit
+                    </i>
+                    L
+                    <i class="material-icons right">
+                        filter_8
+                    </i>
+                    <i class="material-icons right">
+                        filter_9
+                    </i>
+                    <i class="material-icons right">
+                        filter_7
+                    </i>
+                    <i class="material-icons right">
+                        filter_1
+                    </i>
+                    <i class="material-icons right">
+                        copyright
+                    </i>
+                </a>
+                <ul class="right hide-on-med-and-down">
+                    <li>
+                        <a href="/blog">
+                            <i class="material-icons left">
+                                subject
+                            </i>
+                            Blog
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/software">
+                            <i class="material-icons left">
+                                developer_board
+                            </i>
+                            Software Projects
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/art">
+                            <i class="material-icons left">
+                                color_lens
+                            </i>
+                            Art
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <br>
+        <br>
+        <div class="container z-depth-2">
+            <div class="row">
+                <div class="blue-grey-text text-lighten-4"
+                     style="padding-left:12px;padding-right:12px;padding-top:12px;padding-bottom:12px">
+                    <h1>{{ page.title }}</h1>
+                    <p class="meta">{{ page.date | date_to_string }}</p>
+
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+        <footer>
+            <center>
+                <a class="waves-effect waves-light btn" href="mailto:elc1798@gmail.com">
+                    <i class="material-icons left">
+                        send
+                    </i>
+                    email
+                </a>
+                <a class="waves-effect waves-light btn" href="https://github.com/elc1798">
+                    <i class="material-icons left">
+                        send
+                    </i>
+                    github
+                </a>
+            </center>
+        </footer>
+    </body>
+</html>
