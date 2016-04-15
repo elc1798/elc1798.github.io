@@ -32,28 +32,28 @@ Lots and lots of large products use SQL:
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
 ```python
->>> import sqlite3
->>> conn = sqlite3.connect("mydb.db")
->>> c = conn.cursor()
->>> c.execute("CREATE TABLE table1(a text, b integer)")
-<sqlite3.Cursor object at 0x10aad31f0>
->>> c.execute("INSERT INTO table1 VALUES ('yo', 1)")
-<sqlite3.Cursor object at 0x10aad31f0>
->>> c.execute("SELECT * FROM table1").fetchall()
+&lt;&lt;&lt; import sqlite3
+&lt;&lt;&lt; conn = sqlite3.connect("mydb.db")
+&lt;&lt;&lt; c = conn.cursor()
+&lt;&lt;&lt; c.execute("CREATE TABLE table1(a text, b integer)")
+&gt;sqlite3.Cursor object at 0x10aad31f0&lt;
+&lt;&lt;&lt; c.execute("INSERT INTO table1 VALUES ('yo', 1)")
+&gt;sqlite3.Cursor object at 0x10aad31f0&lt;
+&lt;&lt;&lt; c.execute("SELECT * FROM table1").fetchall()
 [(u'yo', 1)]
 ```
 
 <pre>
     <code class="python">
-        >>> import sqlite3
-        >>> conn = sqlite3.connect("mydb.db")
-        >>> c = conn.cursor()
-        >>> c.execute("CREATE TABLE table1(a text, b integer)")
-        <sqlite3.Cursor object at 0x10aad31f0>
-        >>> c.execute("INSERT INTO table1 VALUES ('yo', 1)")
-        <sqlite3.Cursor object at 0x10aad31f0>
-        >>> c.execute("SELECT * FROM table1").fetchall()
-        [(u'yo', 1)]
+&lt;&lt;&lt; import sqlite3
+&lt;&lt;&lt; conn = sqlite3.connect("mydb.db")
+&lt;&lt;&lt; c = conn.cursor()
+&lt;&lt;&lt; c.execute("CREATE TABLE table1(a text, b integer)")
+&gt;sqlite3.Cursor object at 0x10aad31f0&lt;
+&lt;&lt;&lt; c.execute("INSERT INTO table1 VALUES ('yo', 1)")
+&gt;sqlite3.Cursor object at 0x10aad31f0&lt;
+&lt;&lt;&lt; c.execute("SELECT * FROM table1").fetchall()
+[(u'yo', 1)]
   </code>
 </pre>
 
