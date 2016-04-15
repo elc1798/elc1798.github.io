@@ -69,3 +69,11 @@ SELECT * FROM table1
 ```
 This is called a query. This particular query returns the entire table.
 
+In an implementation of SQL that uses text replacement, it is very dangerous to
+use *literal replacement*. In a literal replacement, it is possible for the
+query itself to be modified to do something unintended. Consider the following
+code in Python:
+
+```
+c.execute(“SELECT * FROM users WHERE uname = '%s'” % (uname)).fetchall()
+```
