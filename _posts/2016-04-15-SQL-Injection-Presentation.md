@@ -32,6 +32,7 @@ Lots and lots of large products use SQL:
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
 <div class="codeblock">
+<code>
 &gt;&gt;&gt; import sqlite3
 <br>
 &gt;&gt;&gt; conn = sqlite3.connect("mydb.db")
@@ -50,6 +51,7 @@ As a demonstration, we can use Python's SQLite3 library as a quick demonstration
 <br>
 [(u'yo', 1)]
 <br>
+</code>
 </div>
 
 The above creates a database called `mydb.db`. Then it creates a `cursor` object
@@ -82,3 +84,45 @@ code in Python:
 ```
 c.execute(“SELECT * FROM users WHERE uname = '%s'” % (uname)).fetchall()
 ```
+
+Well what is this query supposed to do? This is a simple query that selects all
+the users in the database who have the username that matches what the user
+input. ... *But*... What if an evil person doesn't know a username, and wants
+this query to return true? Or maybe he just wants all the usernames?
+
+<div class="codeblock">
+<code>
+SELECT * FROM users WHERE uname='$uname';
+<br>
+$uname = “' -- ”;
+<br>
+SELECT * FROM users WHERE uname='' -- ';
+<br>
+SELECT * FROM users WHERE uname='';
+<br>
+</code>
+</div>
+
+As you can see, the query becomes "Select all users with a blank username."
+
+What if we try something similar:
+
+<div class="codeblock">
+<code>
+SELECT * FROM users WHERE uname='$uname';
+<br>
+$uname = “' OR 1 = 1 -- ”;
+<br>
+SELECT * FROM users WHERE uname='' OR 1 = 1 -- ';
+<br>
+SELECT * FROM users WHERE uname='' OR 1 = 1;
+<br>
+SELECT * FROM users WHERE false OR true;
+<br>
+SELECT * FROM users WHERE true;
+<br>
+SELECT * FROM users;
+<br>
+</code>
+</div>
+
