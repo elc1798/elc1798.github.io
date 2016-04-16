@@ -220,69 +220,8 @@ I've created a tiny sample Python Flask application that you can use to test SQL
 injections, using SQLite3 syntax. The source is located
 [here](https://github.com/stuyhack/2015-2016/tree/master/11-18-15_SQLi).
 
-The vulnerable part is in `vulndb.py`, duplicated below:
-
-<div class="codeblock">
-<code>
-import sqlite3
-<br>
-<br>
-def is_valid_user(uname, pword):
-<br>
-    conn = sqlite3.connect("users.db")
-<br>
-    c = conn.cursor()
-<br>
-    QUERY = "SELECT * FROM users WHERE uname = '%s' AND pword = '%s'" % (uname, pword)
-<br>
-    print QUERY
-<br>
-    result = []
-<br>
-    try:
-<br>
-        result = c.execute(QUERY).fetchall()
-<br>
-    except:
-<br>
-        print "Invalid SQL query in is_valid_user"
-<br>
-        return False
-<br>
-    conn.close()
-<br>
-    return len(result) == 1
-<br>
-<br>
-def get_user(uname):
-<br>
-    conn = sqlite3.connect("users.db")
-<br>
-    c = conn.cursor()
-<br>
-    QUERY = "SELECT * FROM users WHERE uname = '%s'" % (uname)
-<br>
-    result = []
-<br>
-    try:
-<br>
-        result = c.execute(QUERY).fetchall()
-<br>
-    except:
-<br>
-        print "Invalid SQL query in get_user"
-<br>
-        return False
-<br>
-    conn.close()
-<br>
-    return result[0][0]
-<br>
-</code>
-</div>
-
-The vulnerablility in this application is the use of the **format string**. As
-you can see in the line
+The vulnerable part is in `vulndb.py`. The vulnerablility in this application is
+the use of the **format string**. As you can see in the line
 
 ```
 QUERY = "SELECT * FROM users WHERE uname = '%s'" % (uname)
