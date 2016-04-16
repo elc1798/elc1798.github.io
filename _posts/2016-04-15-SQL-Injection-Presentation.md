@@ -36,26 +36,17 @@ Lots and lots of large products use SQL:
 As a demonstration, we can use Python's SQLite3 library as a quick demonstration:
 
 <div class="codeblock">
-<code>
+<pre>
 &gt;&gt;&gt; import sqlite3
-<br>
 &gt;&gt;&gt; conn = sqlite3.connect("mydb.db")
-<br>
 &gt;&gt;&gt; c = conn.cursor()
-<br>
 &gt;&gt;&gt; c.execute("CREATE TABLE table1(a text, b integer)")
-<br>
 &lt;sqlite3.Cursor object at 0x10aad31f0&gt;
-<br>
 &gt;&gt;&gt; c.execute("INSERT INTO table1 VALUES ('yo', 1)")
-<br>
-&gt;sqlite3.Cursor object at 0x10aad31f0&gt;
-<br>
+&lt;sqlite3.Cursor object at 0x10aad31f0&gt;
 &gt;&gt;&gt; c.execute("SELECT * FROM table1").fetchall()
-<br>
 [(u'yo', 1)]
-<br>
-</code>
+</pre>
 </div>
 
 The above creates a database called `mydb.db`. Then it creates a `cursor` object
@@ -97,16 +88,12 @@ this query to return true? Or maybe he just wants all the usernames?
 ### Our first injection
 
 <div class="codeblock">
-<code>
+<pre>
 SELECT * FROM users WHERE uname='$uname';
-<br>
 $uname = “' -- ”;
-<br>
 SELECT * FROM users WHERE uname='' -- ';
-<br>
 SELECT * FROM users WHERE uname='';
-<br>
-</code>
+</pre>
 </div>
 
 As you can see, the query becomes "Select all users with a blank username."
@@ -114,22 +101,15 @@ As you can see, the query becomes "Select all users with a blank username."
 What if we try something similar:
 
 <div class="codeblock">
-<code>
+<pre>
 SELECT * FROM users WHERE uname='$uname';
-<br>
 $uname = “' OR 1 = 1 -- ”;
-<br>
 SELECT * FROM users WHERE uname='' OR 1 = 1 -- ';
-<br>
 SELECT * FROM users WHERE uname='' OR 1 = 1;
-<br>
 SELECT * FROM users WHERE false OR true;
-<br>
 SELECT * FROM users WHERE true;
-<br>
 SELECT * FROM users;
-<br>
-</code>
+</pre>
 </div>
 
 As you can see, the simple query to match up an input username is turned into a
@@ -142,28 +122,22 @@ order to successfully log in, or display info. Clearly, it is bad practice as a
 developer to just use:
 
 <div class="codeblock">
-<code>
+<pre>
 if query.rows == 0:
-<br>
     return False # Bad login
-<br>
 renderData() # Otherwise successful login!
-<br>
-</code>
+</pre>
 </div>
 
 (The above is just pseudo-code, that's not actually how you check the number of
 returned rows.) Instead what most programs will mimic is something like this:
 
 <div class="codeblock">
-<code>
+<pre>
 if query.rows != 1:
-<br>
     return False # Bad login
-<br>
 renderData() # Otherwise successful login!
-<br>
-</code>
+</pre>
 </div>
 
 So how do we bypass this? Our first injection won't work unless there's exactly
@@ -183,22 +157,15 @@ This query selects the first 5 rows in `fruits` where the type of fruit is
 We can use this in our injection:
 
 <div class="codeblock">
-<code>
+<pre>
 SELECT * FROM users WHERE uname='$uname';
-<br>
 $uname = “' OR 1 = 1 LIMIT 1 -- ”;
-<br>
 SELECT * FROM users WHERE uname='' OR 1 = 1 LIMIT 1 -- ';
-<br>
 SELECT * FROM users WHERE uname='' OR 1 = 1 LIMIT 1;
-<br>
 SELECT * FROM users WHERE false OR true LIMIT 1;
-<br>
 SELECT * FROM users WHERE true LIMIT 1;
-<br>
 SELECT * FROM users LIMIT 1;
-<br>
-</code>
+</pre>
 </div>
 
 This will select the *first* row of the database. (**Tip**: Usually the first
@@ -248,16 +215,16 @@ special characters by checking for space separated strings.
 
 #### Logging in
 
-The query `bob' -- ` will log us in as `bob` ***if*** we knew that `bob` was a
+The query `bob' -- `  will log us in as `bob` ***if*** we knew that `bob` was a
 user in the database, and if there was exactly 1 `bob` in the database. However,
 in the terminal, if we do:
 
 <div class="codeblock">
-<code>
+<pre>
 $ sqlite3
 &gt; .open users.db
 &gt; INSERT INTO users VALUES("bob", "tango");
-</code>
+</pre>
 </div>
 
 This will add a new user called `bob` into the database, so `bob' -- ` will no
