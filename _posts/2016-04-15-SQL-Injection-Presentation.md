@@ -203,5 +203,197 @@ SELECT * FROM users LIMIT 1;
 
 This will select the *first* row of the database. (**Tip**: Usually the first
 row of the database is an admin user or some dummy user that a developer used
-during testing and didn't want to / forgot to remove.
+during testing and didn't want to / forgot to remove.)
+
+### What else can we do with SQL injection?
+
+1. Grab the passwords of specific users
+2. Select and login as a specific user
+3. Log in as a “ghost” user
+4. Get the names of all the other tables in the database
+5. Dump… the database…
+6. Drop. The. Base. The Database.
+
+### Demonstrations
+
+I've created a tiny sample Python Flask application that you can use to test SQL
+injections, using SQLite3 syntax. The source is located
+[here](https://github.com/stuyhack/2015-2016/tree/master/11-18-15_SQLi).
+
+The vulnerable part is in `vulndb.py`, duplicated below:
+
+<div class="codeblock">
+<code>
+import sqlite3
+<br>
+<br>
+def is_valid_user(uname, pword):
+<br>
+    conn = sqlite3.connect("users.db")
+<br>
+    c = conn.cursor()
+<br>
+    QUERY = "SELECT * FROM users WHERE uname = '%s' AND pword = '%s'" % (uname, pword)
+<br>
+    print QUERY
+<br>
+    result = []
+<br>
+    try:
+<br>
+        result = c.execute(QUERY).fetchall()
+<br>
+    except:
+<br>
+        print "Invalid SQL query in is_valid_user"
+<br>
+        return False
+<br>
+    conn.close()
+<br>
+    return len(result) == 1
+<br>
+<br>
+def get_user(uname):
+<br>
+    conn = sqlite3.connect("users.db")
+<br>
+    c = conn.cursor()
+<br>
+    QUERY = "SELECT * FROM users WHERE uname = '%s'" % (uname)
+<br>
+    result = []
+<br>
+    try:
+<br>
+        result = c.execute(QUERY).fetchall()
+<br>
+    except:
+<br>
+        print "Invalid SQL query in get_user"
+<br>
+        return False
+<br>
+    conn.close()
+<br>
+    return result[0][0]
+<br>
+</code>
+</div>
+
+The vulnerablility in this application is the use of the **format string**. As
+you can see in the line
+
+```
+QUERY = "SELECT * FROM users WHERE uname = '%s'" % (uname)
+```
+
+We use the `%s` to input a string. However, because of the way this is passed
+into SQLite, what it will do is take our `uname` variable, duplicate it into the
+query, and run that query character for character in an SQLite console.
+
+You can run the Python application by doing:
+
+```
+$ python app.py 2> /dev/null # Silences the Flask output messages
+```
+
+Note that this application will only log you in if there is only 1 row returned.
+
+In our injections, we use the ` -- ` at the end to comment out the rest of the
+query. Note the spaces before and after the double dashes. These spaces prevent
+some flavors of SQL from crashing, as some implementations of SQL will filter
+special characters by checking for space separated strings.
+
+### Specific examples using the demo app
+
+#### Logging in
+
+The query `bob' -- ` will log us in as `bob` ***if*** we knew that `bob` was a
+user in the database, and if there was exactly 1 `bob` in the database. However,
+in the terminal, if we do:
+
+<div class="codeblock">
+<code>
+$ sqlite3
+&gt; .open users.db
+&gt; INSERT INTO users VALUES("bob", "tango");
+</code>
+</div>
+
+This will add a new user called `bob` into the database, so `bob' -- ` will no
+longer work. To undo this, go back into the SQLite3 console and run:
+
+```
+> DELETE FROM users WHERE uname="bob" AND pword="tango";
+```
+
+The query `' OR 1=1 LIMIT 1 -- ` will log in as the first user.
+The query `' OR 1=1 LIMIT 1 OFFSET n -- ` will log in as the nth user.
+
+If we wanted to get all the usernames in the table, we could write a simple
+script to request the webpage, inject our SQL query, and increment offset
+values.
+
+#### Ghost users
+
+We can also insert a user that **doesn't actually exist** in the database. We
+can use the `UNION` keyword in SQL! From the SQL documentation, we see that SQL
+can only perform the union operation if the number of columns of the 2 "sets" is
+the same.
+
+To find the number of columns, we can use the `ORDER BY` attack. What this
+attack uses is the fact that SQL will *crash* if `ORDER BY` cannot be performed.
+Let me back up a bit: `ORDER BY n` will sort the rows selected based on the nth
+column. Thus, if the column does not exist (such as doing `ORDER BY 9001` in a 5
+column table), then SQL will crash.
+
+Using this logic, we can find the number of columns by just incrementing `n`
+until it crashes. If it crashes at some arbitrary number `x`, then the number of
+columns is x-1.
+
+In the example application, we see that there are only 2 columns: `ORDER BY 3 --
+` will crash. To inject a ghost user, do:
+
+```
+' UNION SELECT "this is a fake name", "this is a fake password" -- 
+```
+
+#### Stealing information
+
+In order to steal information, we need to know the names of the columns. We know
+that SQL obeys a certain schema. Lo and behold, the schema is stored within SQL!
+In SQLite3, this schema is a table called `sqlite_master`, and in MySQL, it's
+called `information_schema`, or rather `information_schema.tables` for the
+tables.
+
+If the website displays the username by pulling it from the database, you can
+use:
+
+```
+' UNION SELECT name, sql FROM sqlite_master LIMIT 1 -- 
+```
+
+This injection will get you started on your journeys.
+
+### Automating SQL Injections
+
+To automate tedious injections, you can write custom scripts like the `inject`
+scripts in the demo app repository. Or you can use the tool:
+[sqlmap](http://sqlmap.org/).
+
+### Preventing SQL injection
+
+There are a few ways to prevent injection. The main way to do this is to stop
+the injection at it's root cause: the literal text replacement.
+
+The main way of doing this is to *sanitize your inputs*. This is what the famous
+"Bobby Tables" XKCD comic demonstrates. In Python, using `?` instead of `%s`
+when using SQLite3 will delimit and *sanitize* the input.
+
+Another way to prevent SQL injection is to *whitelist* the input. It is common
+practice to use blacklists, but there are always cases that can loophole around
+any blacklist. It is much easier to simply whitelist for things like "only
+alphanumeric characters may be used" or limiting the special characters that can
+be used.
 
