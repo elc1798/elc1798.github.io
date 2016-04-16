@@ -239,7 +239,7 @@ $ python app.py 2> /dev/null # Silences the Flask output messages
 
 Note that this application will only log you in if there is only 1 row returned.
 
-In our injections, we use the ` -- ` at the end to comment out the rest of the
+In our injections, we use the `--` at the end to comment out the rest of the
 query. Note the spaces before and after the double dashes. These spaces prevent
 some flavors of SQL from crashing, as some implementations of SQL will filter
 special characters by checking for space separated strings.
