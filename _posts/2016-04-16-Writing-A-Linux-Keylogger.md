@@ -69,5 +69,5 @@ I was unsure about the keycodes themselves, and since I was a bit bored in
 class, I decided to test out every key that was available on the built-in
 MacBook Air 2011 keyboard.
 
-The source can be found here: (keylogger)[https://github.com/elc1798/keylogger]
+The source can be found here: [keylogger](https://github.com/elc1798/keylogger)
 
