@@ -33,7 +33,6 @@ $ sudo python
 What this yielded was many many printouts of a bunch of numbers. Through some
 experimentation, I found that every keystroke was a list of 10 bytes:
 
-
 <div class="codeblock">
 <pre>
 $ sudo python
@@ -65,4 +64,10 @@ MODIFIER KEYS: 8 BIT CODE:
 |_________________ Right Super
 </pre>
 </div>
+
+I was unsure about the keycodes themselves, and since I was a bit bored in
+class, I decided to test out every key that was available on the built-in
+MacBook Air 2011 keyboard.
+
+The source can be found here: (keylogger)[https://github.com/elc1798/keylogger]
 
