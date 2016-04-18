@@ -4,6 +4,14 @@ title: Art Gallery
 ---
 
 <center><h1>{{ page.title }}</h1></center>
+
+<center>
+<p>
+This is a collection of works I have made using the Open Source program <a
+    href="https://blender.org"> Blender </a>
+</p>
+</center>
+
 <ul class="posts">
     <hr>
     {% for file in site.static_files %}
@@ -17,7 +25,7 @@ title: Art Gallery
                 </b>
             </h5>
             <br>
-            <img src="{{ file.path }}"></img>
+            <img src="{{ file.path }}" height="540px" width="960px"></img>
             <br>
             <br>
             <br>
