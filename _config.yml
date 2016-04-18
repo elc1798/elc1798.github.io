@@ -4,6 +4,8 @@ name: Ethan Cheng
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
+gallery: gallery
+
 kramdown:
     input: GFM
     hard_wrap: false

@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ethan Cheng - PROJECT: Beowulf</title>
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="PROJECT: Beowulf" />
+  <meta property="og:image" content="https://media.cmcdn.net/5f2c617ad7ccfbabef81/29546064/1120x630.jpeg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@carbonmade" />
+  <meta name="twitter:description" content="An artwork panel for an English project on Beowulf" />
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-99636-19', 'auto', 'carbonmade')
+  ga('carbonmade.send', 'pageview')
+  </script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
+
+  
+  <meta name="viewport" content="width=820"/>
+
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic&subset=latin,latin-ext,vietnamese">
+
+  <link id="styles" type="text/css" rel="stylesheet" href="/static/3/233/styles/all.css?accentColor=%2320a58e" data-accent-color="#20a58e"/>
+    
+  
+</head>
+
+<body class="sans colorful light green">
+  <div id="wrapper">
+    <div class="sidebar">
+  <div class="scrollable">
+    <div class="rail"><div class="handle"></div></div>
+    <div class="content">     
+      
+<header class="bigLogo">
+  <a href="/">
+    
+    <h1 class="">Ethan Cheng</h1>
+    
+
+    
+
+    <h2 class="tagline hide"></h2>
+  </a>
+</header>
+
+     
+       <nav on-insert="nav:setup"> 
+  <ul class="siteLinks">
+    
+      <li id="homeLink" class=" ">
+        <a href="/">Work</a>
+      </li>
+    
+      <li id="aboutLink" class=" ">
+        <a href="/about">About</a>
+      </li>
+    
+      <li id="contactLink" class=" ">
+        <a href="/contact">Contact</a>
+      </li>
+    
+  </ul>
+
+  <hr/>
+  
+  <ul class="projectLinks">
+    
+      <li id="project5345315Link" class="">
+        <a class="thumbnail" href="/projects/5345315">A Bundle of My Works</a>
+      </li>
+    
+      <li id="project5843492Link" class="current">
+        <a class="thumbnail" href="/projects/5843492">PROJECT: Beowulf</a>
+      </li>
+    
+  </ul>
+</nav>
+
+      <footer id="footer">    
+  <div id="rights">
+    <p id="footerContent">© 2014</p>
+  </div>
+
+  <carbon-branding>
+<a href="https://carbonmade.com/?campaign=footer-branding" target="_blank">
+<span>Made with</span>
+<carbon-glyph>&#xe607;</carbon-glyph>
+<span>Carbonmade</span>
+</a>
+</carbon-branding>
+
+</footer>     
+    </div>
+  </div>
+</div>
+
+    <main role="main">
+      
+
+
+<div class="pieces  ">
+  
+  <carbon-piece id="piece_25192549" class="text">
+<carbon-text class="paragraph">
+I made this series for a project on Beowulf for British Literature class. The project consists of 8 pictures with captions taken from the text of Beowulf, providing my own interpretation of the scene (not what is directly stated in the book). The works show Grendel and the battle with the dragon, as well as Beowulf’s funeral. I also included a few other images as a little “behind-the-scenes” tour, giving a few screenshots and test renders while I was working. Huge thanks goes to DennisH2010 for the dragon rig and chekolian for the alien concept rig for Grendel.
+</carbon-text>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192480" class="image" style="width:100%">
+<style>
+carbon-shield { display:block;position:absolute;top:0;left:0;width:100%;height:100%; }
+carbon-image { display:block;position:relative;}
+carbon-image img { position:absolute;top:0;left:0;width:100%;height:100%; }
+</style>
+<style scoped>
+#image_29546064:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546064" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/08dd352105c8a8d67dd7/29546064/960x540.jpeg" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"…while a baleful light, flame more than light, flared from his eyes." (lines 726-727)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192625" class="image" style="width:100%">
+<style scoped>
+#image_29546217:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546217" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/e22d8d33bedbc391c62c/29546217/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"Venturing closer, his talon was raised to attack Beowulf…" (lines 745-746)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192479" class="image" style="width:100%">
+<style scoped>
+#image_29546063:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546063" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/49b92a8e8df28d91afc6/29546063/960x540.jpeg" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"…long ago…now forgotten…the only one left to tell their tale, the last of their line,…" (lines 2433-2239)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192483" class="image" style="width:100%">
+<style scoped>
+#image_29546067:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546067" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/5557bac9cc207f2f2e9c/29546067/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>“The lord of the Geats unburdened his breast and borke out in a storm of anger” (lines 2550-2552)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192484" class="image" style="width:100%">
+<style scoped>
+#image_29546068:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546068" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/23cef31e2bb82019901f/29546068/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"… he caught the hero in a rush of flame and clamped sharp fangs into his neck…" (lines 2690-2692)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192486" class="image" style="width:100%">
+<style scoped>
+#image_29546070:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546070" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/1c12054e745db876784f/29546070/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>“He stuck it deep… Beowulf dealt it a deadly wound.” (lines 2705-2706)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192488" class="image" style="width:100%">
+<style scoped>
+#image_29546072:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546072" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/ec9683bf2ea4ae8851e7/29546072/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"Now the people’s pride and love, the lord of the Geats, is laid on his deathbed…" (lines 2900-2901)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192490" class="image" style="width:100%">
+<style scoped>
+#image_29546074:after {
+  display: block;
+  padding-top: 70.313%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546074" style="max-width:512px">
+  <img class="lazy" data-src="https://media.cmcdn.net/f2ef5561f8014bfbb2f2/29546074/512x360.jpeg" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>"…fumes of woodsmoke billowed darkly up, the blaze roared and drowned out their weeping,…" (lines 3144-3146)</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192585" class="image" style="width:100%">
+<style scoped>
+#image_29546170:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546170" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/4095294c8699f3d33c8c/29546170/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Posing Grendel</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192587" class="image" style="width:100%">
+<style scoped>
+#image_29546171:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546171" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/eed9f41a18c2f045fec1/29546171/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Texturing Grendel’s fiery tongue</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192589" class="image" style="width:100%">
+<style scoped>
+#image_29546172:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546172" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/7e0a197f421486125509/29546172/960x540.jpeg" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>Grendel Test Render</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192602" class="image" style="width:100%">
+<style scoped>
+#image_29546187:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546187" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/27717b754194eb47dc76/29546187/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Modelling and Rigging Beowulf’s base human form</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192610" class="image" style="width:100%">
+<style scoped>
+#image_29546196:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546196" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/91b02b558110d9857ff5/29546196/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Adding Beowulf’s armor by building over his human figure</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192599" class="image" style="width:100%">
+<style scoped>
+#image_29546183:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546183" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/07362fe6442ab20aecca/29546183/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Using a particle engine for Beowulf’s hair and beard</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192553" class="image" style="width:100%">
+<style scoped>
+#image_29546137:after {
+  display: block;
+  padding-top: 56.250%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546137" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/7f978d7245567cbf9873/29546137/960x540.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>Beowulf Test Render</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192595" class="image" style="width:100%">
+<style scoped>
+#image_29546180:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546180" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/4a1e56df1cc45e767676/29546180/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Posing a combat scene between Beowulf and the dragon</p>
+</carbon-caption>
+</carbon-piece>
+  
+  <carbon-piece id="piece_25192591" class="image" style="width:100%">
+<style scoped>
+#image_29546175:after {
+  display: block;
+  padding-top: 75.208%;
+  content: '';
+}
+</style>
+<carbon-image id="image_29546175" style="max-width:960px">
+  <img class="lazy" data-src="https://media.cmcdn.net/1f7b85e02cbfcb0f57c4/29546175/960x722.png" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+<carbon-caption><p>BEHIND THE SCENES: Generating the texture for fire</p>
+</carbon-caption>
+</carbon-piece>
+  
+</div>
+
+
+  
+    
+    <div class="details bottom">
+      
+        <h1>PROJECT: Beowulf</h1>
+      
+
+      
+        <div class="col"><p>An artwork panel for an English project on Beowulf</p></div>
+      
+      
+      <div class="col">  
+        <table>
+          
+            <tr>
+              <td><h5>For</h5></td>
+              <td class="text">  Mr. Kim, British Literature &lt;3 </td>
+            </tr>
+          
+        </table>
+      </div>
+    </div>
+    
+  
+
+
+    </main>
+  </div>
+
+  <script src="https://static.cmcdn.net/libs/player/3.2.0/dash.js"></script>
+
+  <script src="https://static.cmcdn.net/libs/basejs/1.2.1/basejs.js" integrity="sha256-Z0870CEb4znqTgffDdWOc8gyDrn2jB0T7zmRl8siW0U=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/corejs/1.2.1/corejs.js" integrity="sha256-nWZVFoGeVDiU3GLDF6AoCqnhbRdPIuTKyJpb6kwhQjw=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/router/1.0.1/router.js" integrity="sha256-MVPQfaTgi3/OAICL3GpzV7csDTBbvpfkJlghG1nHCic=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/zoomable/1.1.10/zoomable.js" integrity="sha256-XjZjeRulycyNJLZ9kAYAusDgBzyIj8u4uZDO/tMYDCI=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/forms/1.0.0/forms.js" integrity="sha256-IyqnWSAIkDHSupNuulzop2k6K4hOHJTzlj7bJSd8j9w=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/lazyjs/1.2.2/lazyjs.js" integrity="sha256-7s+qRrNpPgq1hDRFUPBdTkPzQw6dGwb/Q0CR6xoVw7s=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/scrollable/1.0.4/scrollable.js" integrity="sha256-QTznf9vDoc6lGHipPMwyrN/g8tsIiQOTbilIXZZlAek=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/libs/player/3.2.3/player.js" integrity="sha256-ALxKb1zTkMZLZOkoDNqXgEgi/fXQHauj6Jqh6oym59g=" crossorigin="anonymous"></script>
+  <script src="https://static.cmcdn.net/3/233/scripts/app.js" crossorigin="anonymous"></script>
+
+   
+  
+</body>
+</html>

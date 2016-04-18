@@ -1,0 +1,32 @@
+---
+layout: blog
+title: Art Gallery
+---
+
+<center><h1>{{ page.title }}</h1></center>
+<ul class="posts">
+    <hr>
+    {% for file in site.static_files %}
+    {% if file.path contains "/gallery" %}
+    {% if file.extname == ".png" %}
+    <li>
+        <center>
+            <h5>
+                <b>
+                    {{ file.path | replace: "/gallery/", "" | replace: ".png", "" }}
+                </b>
+            </h5>
+            <br>
+            <img src="{{ file.path }}"></img>
+            <br>
+            <br>
+            <br>
+            <hr>
+            <br>
+        </center>
+    </li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</ul>
+
