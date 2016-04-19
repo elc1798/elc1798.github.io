@@ -1,0 +1,83 @@
+- title: "The Elder Turtle Messaging Service"
+  link: "https://github.com/elc1798/elderturtlems"
+  description: "A terminal based email service that sends over Gmail using SMTP"
+  created: "2014"
+  pic: "tetms.png"
+
+- title: "Stuyablo"
+  link: "https://github.com/elc1798/Stuyablo"
+  description: "A Rogue-like dungeon crawler written in Java for APCS class"
+  created: "2015"
+  pic: "stuyablo.png"
+
+- title: "CAMazed"
+  link: "https://github.com/elc1798/CAMazed"
+  description: "An application in Processing to solve mazes viewed by a webcam"
+  created: "2015"
+  pic: "camazed.png"
+
+- title: "Fluffy Backgrounds"
+  link: "https://github.com/elc1798/fluffy-backgrounds"
+  description: "A little script that changes the Ubuntu wallpaper to a random picture of a fluffy dog using gsettings"
+  created: "2015"
+  pic: "fluffy.jpg"
+
+- title: "Shell Locker"
+  link: "https://github.com/elc1798/shell-locker"
+  description: "A Python script for some added security on your shell"
+  created: "2015"
+  pic: "shelllocker.png"
+
+- title: "Revenge of the Octocat"
+  link: "https://github.com/elc1798/revenge-of-the-octocat"
+  description: "A top down shooter I created as my first APCS project"
+  created: "2014-2015"
+  pic: "rev_of_the_octocat.png"
+
+- title: "wish"
+  link: "https://github.com/elc1798/wish"
+  description: "A shell I worked on with Sophia Zheng (sophz55) for my high school Systems Programming class"
+  created: "2015-2016"
+  pic: "wish.png"
+
+- title: "Chessley Tan"
+  link: "https://github.com/elc1798/chessley-tan"
+  description: "A (work in progress) Tensorflow AI that learns how to play chess"
+  created: "2016"
+  pic: "chess.png"
+
+- title: "Deeply Flowing Face"
+  link: "https://github.com/elc1798/deeply-flowing-face"
+  description: "A (work in progress) Tensorflow AI that learns and recognizes a person's face. This can be used for lock screens, security, fun, etc."
+  created: "2016"
+
+- title: "jShell"
+  link: "https://github.com/elc1798/jShell"
+  description: "A (work in progress) shell written in Java. It is planned to be able to support plugins written in Java"
+  created: "2015-2016"
+
+- title: "Stuy Graphics"
+  link: "https://github.com/elc1798/stuy-gfx-utils"
+  description: "A (work in progress) graphics engine currently being developed for my high school Computer Graphics class"
+  created: "2016"
+
+- title: "Keylogger"
+  link: "https://github.com/elc1798/keylogger"
+  description: "A keylogger for Linux systems"
+  created: "2016"
+
+- title: "PEGasus1"
+  link: "https://github.com/Team694/PEGasus1"
+  description: "Code for Team 694's robot during the 2015 FRC season, my year of vice presidency"
+  created: "2015"
+
+- title: "Stuy Vision 2016"
+  link: "https://github.com/Team694/stuy-vision-2016"
+  description: "Code for Team 694's computer vision software during the 2016 FRC season, my year of presidency"
+  created: "2016"
+
+- title: "DEStiny"
+  link: "https://github.com/Team694/DEStiny"
+  description: "Code for Team 694's robot during the 2016 FRC season, my year of presidency"
+  created: "2016"
+
