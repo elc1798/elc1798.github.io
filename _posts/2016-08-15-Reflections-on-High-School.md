@@ -39,8 +39,8 @@ and due to a lack of sleep and physical exhaustion, she gets really sick. She
 ends up going to the audition anyway, and because of her condition, she fails,
 but also ends up causing her entire group to fail, causing her group to lash out
 her. After 2 years of taking classes, she has another audition that will
-determine whether or not she can make it into an agency, but she also ends up
-getting rejected.
+determine whether or not she can make it into an agency, but she ends up getting
+rejected again.
 
 This brings me to my question: If you work your life away, trying to make your
 dreams come true, but you fail in the end, is all that effort a waste?
