@@ -39,9 +39,15 @@ This is a collection of works I have made using the Open Source program <a
 </ul>
 
 <script>
-$( document ).ready(function() {
+var resizeImages = function resizeImages() {
     $("img").height($(window).width() * .36);
     $("img").width($(window).width() * .64);
+};
+
+$( document ).ready(function() {
+    resizeImages();
 });
+
+window.addEventListender('resize', resizeImages);
 </script>
 
