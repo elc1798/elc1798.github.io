@@ -25,7 +25,7 @@ This is a collection of works I have made using the Open Source program <a
                 </b>
             </h5>
             <br>
-            <img src="{{ file.path }}" height="36vw" width="64vw"></img>
+            <img src="{{ file.path }}" height="540" width="960"></img>
             <br>
             <br>
             <br>
@@ -37,4 +37,11 @@ This is a collection of works I have made using the Open Source program <a
     {% endif %}
     {% endfor %}
 </ul>
+
+<script>
+$( document ).ready(function() {
+    $("img").height($(window).width() * .36);
+    $("img").width($(window).width() * .64);
+});
+</script>
 
