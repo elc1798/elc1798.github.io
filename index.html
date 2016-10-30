@@ -9,7 +9,7 @@ $ whoami
 <br>
 Name: Ethan Cheng
 <br>
-Age: 18
+Age: <span id="age"></span>
 <br>
 School: University of Illinois @ Urbana-Champaign
 <br>
@@ -27,3 +27,7 @@ $ vim
 $ sudo poweroff
 </code>
 
+<script>
+  var age = document.getElementById('age');
+  age.innerHTML = new Date(new Date - new Date('1998-09-17')).getFullYear()-1970;
+</script>
