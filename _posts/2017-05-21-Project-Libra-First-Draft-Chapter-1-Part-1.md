@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project LIBRA (First Draft) - Chapter 1, Pt. 1"
+title: "Project LIBRA (First Draft) - Ch. 1, Pt. 1"
 date: 2017-05-21
 ---
 
