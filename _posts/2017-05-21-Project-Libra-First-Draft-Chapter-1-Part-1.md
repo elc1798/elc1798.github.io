@@ -117,7 +117,7 @@ being friendly with me. I hate fake people." I said in a low voice into his ear.
 "Alright, fine. How was the mission? You took a bit longer than usual. You
 aren't losing your touch are you?" He said, in a serious tone, worlds apart than
 his excessively friendly voice from before. **If you're losing your touch, I
-***will*** kill you.**
+*will* kill you.**
 
 "Don't worry about it. I wanted some alone time. It was nice out tonight." I
 stood up and held my hand out. He ignored it and propped himself off the ground.
