@@ -77,7 +77,7 @@ the forest.
 
 I stayed still for a little longer, basking under the comfort of the moonlight.
 Taking a deep breath, I looked down at my left hand. Symbols appeared in glowing
-white glyphs. *r=1.04. t=2.599e12* Not bad. I started breathing normally again
+white glyphs. *r=1.04. t=2.599e12*. Not bad. I started breathing normally again
 as I followed the captain into the forest.
 
 **----**
@@ -97,8 +97,8 @@ destroyed, we appear again, only to cause more chaos.
 
 After the truck picked me and the Captain up at the rendezvous site, I was
 brought to a safe house. Walking in, I beelined towards my room. *4 people. 1
-3 in the living room.* As I walked past the living room, a loud obnoxious voice
-hollered at me.
+upstairs, 3 in the living room.* As I walked past the living room, a loud
+obnoxious voice hollered at me.
 
 "Hey Fem! How'd it go?"
 
