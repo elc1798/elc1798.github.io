@@ -212,3 +212,32 @@ turned the desk lamp off, and pulled the blanket over my head.
 
 **----**
 
+I was in car, turned on its side. Broken glass littered the area around me.
+The dim light from the street lamps cast an eerie glow on me as I sat there on
+my knees. I was frozen. No matter how hard I tried, I couldn't move a single
+muscle. I simply sat there, unable to avert my gaze from the scene in front of
+me. A man and a woman, struggling and screaming as masked figures, clad in
+black, violently retrained them. I saw one of the 3 assailants shove a rag over
+the woman's mouth. Immediately, the woman went limp as she lost consciousness,
+her long black hair covering her face as one of the other assailants threw her
+over his shoulder, and began carrying away. The man yelled out, fighting even
+harder to escape, but the black figure had an iron grip on his arms. The one
+with the rag walked over and threw a hard punch into his stomach, causing him to
+keel over, his yells cut short as he was winded. The assailant shoved the rag
+over his mouth and, like the woman, he became still as he lost consciousness. A
+van appeared from around the corner, and the assailants, carrying the man and
+the woman like sacks of rice over their shoulders, boarded the van through the
+rear door and disappeared into the night.
+
+*Bzz!* The vibration from my phone against the desk jolted me awake. I grabbed
+the phone and dismissed the alarm. Rolling over, I hugged the pillow as I fought
+with myself internally to get out of bed. *That dream again.* I pushed my face
+into the pillow.  *Huh? The pillow's wet?* I sat up and rubbed my eyes. *Was I
+crying again?* I lay back down onto the bed and started at the ceiling.
+
+*Mom. Dad. Where are you now?*
+
+I got out of bed and walked into the bathroom, the cold morning air a stark
+difference from the warm blankets and sheets I had left. I hugged myself and
+rubbed my arms as I scurried across the cold floor in bare feet.
+
