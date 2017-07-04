@@ -111,12 +111,13 @@ shoulder.
 *Thud!* He dropped on the floor as I spun around swept his feet from under him
 and shove his chest downwards.
 
-"I'm not *babe*, Azazel. I'm your teammate, nothing more, nothing less. Stop
-being friendly with me. I hate fake people." I said in a low voice into his ear.
+"I'm not *babe*, Azazel. I'm your teammate, nothing more, nothing less. And stop
+putting on the drunk person act. It's annoying." I said in a low voice into his
+ear.
 
 "Alright, fine. How was the mission? You took a bit longer than usual. You
 aren't losing your touch are you?" He said, in a serious tone, worlds apart than
-his excessively friendly voice from before. **If you're losing your touch, I
+his "drunk football jock" voice from before. **If you're losing your touch, I
 *will* kill you.**
 
 "Don't worry about it. I wanted some alone time. It was nice out tonight." I
@@ -239,5 +240,95 @@ crying again?* I lay back down onto the bed and started at the ceiling.
 
 I got out of bed and walked into the bathroom, the cold morning air a stark
 difference from the warm blankets and sheets I had left. I hugged myself and
-rubbed my arms as I scurried across the cold floor in bare feet.
+rubbed my arms as I scurried across the cold floor in bare feet. I stared at
+myself in the bathroom mirror. My eyes were bloodshot, my hair was a mess, and
+my skin felt disgusting. Turning the faucet on, I splashed water on my face and
+rubbed the cool water into my eyes. Gradually, I became more and more awake as
+the soft touch of the water seeped through my closed eyes. I grabbed the towel
+next to the sink and smothered my face with it. I took a moment to relax: the
+soft drumming of the water hitting the sink, the feeling of the furry bathroom
+mat under my feet, and the rough, but comforting touch of the towel against my
+face. Taking long, deep breaths, I slowly wiped the dampness on my face.
+
+*A week to kick back and relax... what should I do?* I set the towel aside and
+began to brush my teeth. *Maybe if Orthus and the rest are free too, we could
+all go out together.* I stared blankly at myself in the mirror. *Last time we
+were all out together... when was that? A month ago? 2?* I spat out the
+toothpaste and rinsed out my mouth. *Maybe we could go grab dinner later. That
+Italian place downtown seemed pretty nice.*
+
+"Hey Fem! Your package is here." A voice came from outside my door.
+
+I wiped my mouth with the back of my hand and walked over. Opening the door, I
+saw Orthus standing there in a wrinkled T-shirt and sweatpants, with a small
+briefcase in his hand.
+
+"Hey Orth." I took the briefcase as he handed it to me. "Thanks."
+
+"Hey Fem, it's Nero's birthday soon. I figured we were all free for the next few
+days. Maybe we could get dinner together." Orthus leaned on the wall in a very
+relaxed fashion.
+
+"Oh yeah, sure! That'll be great!" I mentally reprimanded myself for forgetting
+about Nero. "Yeah I'm free until next Tuesday."
+
+"Cool." Orthus boosted himself off the wall, in his usual whimsical fashion.
+"Yeah Nero wanted to go to that fried chicken place. Maybe grab a couple beers.
+It'll be fun." He ran his hand through his jet black hair and let out a yawn,
+clearly not yet completely awake.
+
+*Did you just wake up?* I unintentionally asked him telepathically.
+
+"Yeah, fell asleep on the living room couch last night. The delivery guy woke me
+up." He blinked hard a few times and raised both of his arms, stretching his
+back. "Anyway, Andromalus says he'll try to make it. Isaac is coming too, Azazel
+says he'll show up, and I think Lucia told Nero she was going. It'll be nice,
+having the whole crew together again."
+
+*Yeah, it would be. It's been a long time since we've gotten together.*
+
+"Yeah it really has. It's tomorrow at 7 ish. We'll meet by the park like usual."
+He shifted backwards, starting to leave. "Alright, I should get going. Azazel,
+Nero, and Isaac all have rooms upstairs. I'm down the hall.  Lucia is flying in
+tonight I think."
+
+*Nice, thanks. See you around.* I shut the door on him as he waved goodbye and
+walked away.
+
+Our names: Andromalus, Orthus, Azazel, Isaac, Nero, Lucia, and Fem, were
+codenames given to us by the upper echelon. Our real names were kept hidden from
+everyone, including central command and each other. We used assigned fake
+identities, like the one in the briefcase I was holding, for day-to-day
+activities.
+
+I walked over to the bed and threw the briefcase on it. *I'll open you later.*
+Grabbing the pair of jeans I had from yesterday, I went into the pocket and took
+out another smartphone. A bunch of social media notifications popped up as it
+connected to the internet, mostly Facebook updates, news, and Reddit posts.
+Flicking through, I saw a "Breaking News" headline article: "Presidant Brian
+Assassinated! IPF and FMA in Joint Investigation!" *So the news has been spread
+already... What'll happen now?* The IPF was the International Police Force, a
+law enforcement agency that had international jurisdiction and military power.
+The FMA was the Federal Metahuman Association, a society of humans who, like me,
+had some form of mutation or superpower. These powers were dubbed "metas", and
+all legal metahuman citizens had to be registered with the FMA. The FMA has the
+highest decision making power for any metahuman-related event or policy, whether
+it be a law, a crime investigation, or judicial hearing. The FMA was divided
+into several divisions, the main ones being the Internal, Public, and Military
+divisions. The Internal division dealt with matters related to anything
+contained within the metahuman society, and the Public division dealt with any
+matters related to interactions between metahumans and the rest of the world.
+
+The Military division was the most well-known throughout the world. Non-meta
+humans treated them as superheros: a not particularly large, but sizable group
+of metahumans who choose to use their metas for law enforcement and public
+safety. Metahumans treated them as just another police force. *A joint
+investigation between the IPF and the FMA would probably mean involvement of the
+Public and Military divisions.* I stared at the news article on my phone. *If
+any of us got into a battle with the FMA Military, would we make it out alive?*
+I skimmed the rest of the article: "suspected involvment of Revenants", "tire
+tracks discovered in nearby woods", and "18 dead security guards" were among key
+phrases I picked up.
+
+I let out an exasperated sigh and jumped onto my bed. 
 
