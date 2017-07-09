@@ -197,7 +197,7 @@ Monetary compensation for the mission has been sent to account number
 1000249982A.
 
 Amount added: 25000 UCP
-Current balance: 210,553,143 UCP
+Current balance: 2,553,143 UCP
 
 --
 
@@ -306,16 +306,16 @@ Grabbing the pair of jeans I had from yesterday, I went into the pocket and took
 out another smartphone. A bunch of social media notifications popped up as it
 connected to the internet, mostly Facebook updates, news, and Reddit posts.
 Flicking through, I saw a "Breaking News" headline article: "Presidant Brian
-Assassinated! IPF and FMA in Joint Investigation!" *So the news has been spread
+Assassinated! IPF and AMP in Joint Investigation!" *So the news has been spread
 already... What'll happen now?* The IPF was the International Police Force, a
 law enforcement agency that had international jurisdiction and military power.
-The FMA was the Federal Metahuman Association, a society of humans who, like me,
-had some form of mutation or superpower. These powers were dubbed "metas", and
-all legal metahuman citizens had to be registered with the FMA. The FMA has the
-highest decision making power for any metahuman-related event or policy, whether
-it be a law, a crime investigation, or judicial hearing. The FMA was divided
-into several divisions, the main ones being the Internal, Public, and Military
-divisions. The Internal division dealt with matters related to anything
+The AMP was the Association for Metahuman Policy, a society of humans who, like
+me, had some form of mutation or superpower. These powers were dubbed "metas",
+and all legal metahuman citizens had to be registered with the AMP. The AMP has
+the highest decision making power for any metahuman-related event or policy,
+whether it be a law, a crime investigation, or judicial hearing. The AMP was
+divided into several divisions, the main ones being the Internal, Public, and
+Military divisions. The Internal division dealt with matters related to anything
 contained within the metahuman society, and the Public division dealt with any
 matters related to interactions between metahumans and the rest of the world.
 
@@ -323,12 +323,92 @@ The Military division was the most well-known throughout the world. Non-meta
 humans treated them as superheros: a not particularly large, but sizable group
 of metahumans who choose to use their metas for law enforcement and public
 safety. Metahumans treated them as just another police force. *A joint
-investigation between the IPF and the FMA would probably mean involvement of the
+investigation between the IPF and the AMP would probably mean involvement of the
 Public and Military divisions.* I stared at the news article on my phone. *If
-any of us got into a battle with the FMA Military, would we make it out alive?*
+any of us got into a battle with the AMP Military, would we make it out alive?*
 I skimmed the rest of the article: "suspected involvment of Revenants", "tire
 tracks discovered in nearby woods", and "18 dead security guards" were among key
 phrases I picked up.
 
-I let out an exasperated sigh and jumped onto my bed. 
+I let out an exasperated sigh and jumped onto my bed. There wasn't any point
+worrying about it now. The job was done. If we got caught and were confronted,
+it would be up to us get out of the situation. The organization known as the
+Revenants gave us all a second chance, and all of us knew were wouldn't get a
+third. Almost nine years ago, my parents were attacked by a foreign military
+group from the Confederacy of Zuxia. They were scientists who were researching
+the cause of metahumans - dubbed 'metagens'. One day, on a car ride back home
+from dinner, our car was hit by a truck, carrying a large amount of flammable
+liquid. After the safety mechanisms of the car engaged and our car stopped
+flipping and rolling, three men wearing masks and what I later learned to be
+Zuxian military uniforms came out and dragged my parents out from our totalled
+car, which was flipped over and on fire, sedating them and taking them away.
 
+I was barely conscious, in the back seat as I watched everything unfold, and I
+remember after police and ambulances arrived, I learned that my right wrist was
+badly sprained and my skull had a hairline fracture. For the next few months, I
+was in shock. Eventually I was let out of the hospital and put under foster care
+for about four months. Days had flown by where I had done nothing but sit on my
+bed. It was also then when my telepathic powers started to flare up more and
+more. Before, I used to just barely be able to talk to a single person for no
+more than a few sentences. But as the days went by, and after many days of just
+sitting with thoughts flying around in my head, I slowly learned to use my
+abilities more and more.
+
+At nights, I would enter the minds of the people in the house: my foster
+parents, and their 2 non-adopted kids. I enjoyed looking in to people's dreams,
+experiencing different things. Then one night, when I started to have flashbacks
+of the night my parents were kidnapped, I broke down as reality caught up to me,
+throwing a sucker punch right into my face. My telepathy went rampant throughout
+the house, as I unintentionally pushed my unsuppressed emotions into everyone's
+dreams. Not only did the induced nightmares and mental pain snap everyone awake,
+but my foster parent's 4 year old son went crazy, and in an attempt to make the
+pain stop, jumped out the window of his second floor bedroom, snapping his neck.
+The moment I heard his mother scream in terror and felt her own thoughts and
+emotions fly through my brain, I ran. I ran right out the front door in my
+pajamas, my mind in panic, fear, and terror. I ran down block after block,
+street after street. I didn't know how long I ran before I stopped at a tree to
+prop myself up, and both out of breath and in disgust, I threw up. I sunk down
+to ground: a 9 year old, covered in filth, a mind in terror, an orphan, and now
+a murderer. I tried to catch my breath, and at that moment, I had truly wished
+to die.
+
+I sat there, at the base of the tree, next to a puddle of vomit, with my eyes
+glazed over. As I heard sirens coming from the direction of the house and police
+car lights streaking through the darkness of the night sky, someone walked up
+behind me and tapped my shoulder.
+
+"Hey little girl. Are you alright?"
+
+And nine-year-old me looked up and saw the man that I now call Captain.
+
+**----**
+
+The buzz of the city was always impressive to me. The sheer number of people,
+the noise, the chatter, and the enormous amounts of thoughts: parents worrying
+about their kids at school, students cutting class worrying about their parents
+finding out, tourists being amazed by every sight they saw, shop owners mentally
+screaming at frustrating customers. It was almost impossible for me to function.
+The briefcase that Orthus had brought me contained a passport, credit card, and
+SIM card. My alias was "Alice Nakamura": Revenant usually issued fake identities
+that matched our actual nationalities. In my case, my father was Japanese, and
+my mother was French. Close enough.
+
+I wore a loose fitting grey T-shirt, a pair of blue denim short shorts, and a
+black sneakers. My hair was in a loose bun, held together with a hair clip, with
+a long, thin strip of hair flowing down the left side of my face. The hot summer
+sun beamed down on me. *Ugh... it's so hot.* I walked around some more, trying
+to find something interesting to do. I checked the time on my phone: 12:17 PM.
+*I should get some lunch soon, probably. Where am I right now?* I looked
+around for a street sign. *44th and 8th, huh? Wasn't that Italian place on 42nd
+and 8th?* I walked down two blocks, wading through many a tourist group until I
+saw the place: La Trattoria Euphoria.
+
+"Hello there, young lady, would that be a table for one?" The waiter greeted me
+as I entered.
+
+"Yes please, thank you."
+
+The waiter nodded and grabbed a menu, leading me to a table in the corner, by a
+window and a wall. The inside of the restaurant had a rustic, yet refined feel.
+The walls were old red brick, with jagged edges, and had dim lights affixed to
+them. The tables were polished oak wood, with wooden, non-cushioned chairs.
