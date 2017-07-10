@@ -412,3 +412,49 @@ The waiter nodded and grabbed a menu, leading me to a table in the corner, by a
 window and a wall. The inside of the restaurant had a rustic, yet refined feel.
 The walls were old red brick, with jagged edges, and had dim lights affixed to
 them. The tables were polished oak wood, with wooden, non-cushioned chairs.
+Several polished silver chandeliers hung from the ceiling, emitting a light
+barely noticeable compared to the sunlight flooding through from the windows. A
+gentle aroma wafted from the kitchen, the scent of different pasta sauces did a
+good job of whetting my appetite. The restaurant itself was quite noisy, akin to
+a diner during lunch hours. Instinctively, I looked around at the people,
+obseriving them. There was a group of old ladies on the far side of the room,
+talking about their children and grandchildren. At another table sat two men in
+suits, on a lunch break from work. Several tables of tourists. A table of high
+schoolers who came out to eat for their lunch break.
+
+I took a look at the menu. After mulling it over, I put the menu back down and
+looked behind me, out the window. I closed my eyes and focused. I let my mind
+open up, allowing the thoughts of everyone within 30 meters of me to coalesce
+with my own. The effect was overwhelming: it took years of practice just to not
+instantly lose consciousness when reading from only 5 people's minds. Right now,
+there were around 80 people passing in and out of my telepathic range. Among
+those, I caught the thought of a waiter, wondering if he should come to my table
+to take my order. I giggle a bit and put my mental gates back up, blocking out
+all the thoughts. Opening my eyes, I acted as if I were looking around for a
+waiter. The waiter who's thoughts I'd read came briskly walking towards my
+table.
+
+"Hello there, young miss, my name is Mike and I'll be taking care of you today.
+Are you ready to order?" He looked Italian, probably in his early twenties, thin
+but fit, with his jet black hair slicked back with hair gel. He took a pad and
+pen out from his apron pocket.
+
+"Yes, please. Can I have an order of fried calamari to start, and a plate of
+linguini with white clam sauce?"
+
+"Alright, for the linguini, would you like the lunch portion or the dinner
+portion?" he asked, scribbling down the order.
+
+"Lunch portion, please. Thank you." I handed him the menu.
+
+"Alrighty, I'll bring out some bread so you can get started." He took the menu
+and trotted away towards the kitchen area.
+
+I sipped on my water while looking at my phone, browsing through social media.
+The public reaction towards President Brian's assassination was one of pure
+outrage. Her brother, Councilman Patrick Brian, had issued a public statement,
+saying that the IPF and AMP joint investigation was their top priority to bring
+justice on the Revenants. Meanwhile, Vice President Camilla Dustine was given
+the title of President in light of the assassination.
+
+Mike walked over carrying a basket of bread and a plate with butter servings. 
