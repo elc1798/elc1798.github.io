@@ -4,72 +4,49 @@ title: "Project LIBRA (First Draft) - Ch. 1, Pt. 1"
 date: 2017-05-21
 ---
 
-## Prologue
-
-Life is a strange thing. Full of twists and turns, full of monotonous and boring
-routines, full of unexpected events. Mine just happened to be more fast paced
-than most. But still, as I slowly fade away, I remain confused as to how things
-turned out how they did, and even more confused about who I am, and how I feel
-about the way I lived my life. My best friend, before she took her last breath,
-told me that life was like a performance. You work your heart out practicing
-and training. Then after a fleeting moment, all your efforts create something
-beautiful, or end up not having any meaning at all. *Live to have no regrets.*
-
-I don't know whether or not my efforts paid off or not. All I know is that I'm
-tired of this ridiculously long life of mine. The number of regrets that I have
-about my actions and decisions seems like an ocean compared to the number of
-achievements that I'm proud of. But still, those miniscule moments seem to be
-the only thing that kept me going for so long.
-
-I've williningly tarnished my reputation and image. I've been branded as a devil
-and a demon. I can't disagree with those titles after all I've done, but to some
-extent, I enjoy it. The least I could do to atone for my sins was to take the
-hits for those that gave me salvation.
-
-Thousand of years from now, I hope the chronicles of our adventures fade away
-with time, this civilization consumed by the next. I hope the same mistakes
-aren't made again. But alas, of course, history will repeat itself. I leave
-behind this manuscript to those who find it, in the hopes that the future will
-learn from our mistakes.
-
 ## Chapter 1
-
-I steeled my nerves as I took a step forward, raising my arm, preparing to
-strike.
 
 "Please... Please, I have a family! Don't do this!" My victim squirmed in the
 corner of the room, eyes wide with fear. Her voice was quivering as she pleaded
 more and more.
 
-One more step forward. The muscles in my right arm tensed.
+*You also have a second lover and a child who isn't your husband's.*
 
-"Please, no! I promise! I'll give you as much money as you want! I'll make any
-political decisions you want! Please, don't take me away from my family!"
+"Please, no! I promise! I'll give you as much money as you want! I'll give you
+as much political power as I can! Please, don't take me away from my family!"
 
-She was crying, her mind breaking. I could feel the turmoil in her mind, as she
+*Like I need money. Or political power. Who even is your family at this point?*
+
+She was crying, her mind breaking. I could feel the turmoil of her thoughts, as she
 struggled to accept her impending death.
 
-One more step forward. I was within striking distance now. Her pleas and cries
-seemed louder and unending. I shifted the grip on the handle of my katana.
+I took a step forward, well within striking distance. Her pleas and cries seemed
+louder and unending. I spun my oversized butterfly knife from a reverse grip to
+a forward one, sending a jarring metallic ringing through the room. Her eyes
+went wide.
 
 "Please, no! No! NO! N-"
 
-*Shkk!* The blood splattered on the wall as I slashed her throat. I stood still
-for a moment, as it was suddenly silent. No more cries, no more scrambling
-thoughts, nor more screaming.
+I lunged forward and stabbed her throat, cutting her screams short and impaling
+her into the wall. I kept my arm there, holding the blade in place as she tried
+pulling it out, cutting her hands up in the process. She sputtered, gasping for
+air as she spat out blood. The light left her eyes, wide from terror and shock,
+as her body slumped, her bleeding hands falling to the ground with a thump.
 
-Peace and quiet. *How tranquil.* A light breeze came through the window, the
-moonlight illuminating the mess that was the study. Papers and books scattered
-on the floor, chairs and desks flipped over. I waded through the mess and
-exitted the room, walking down the hallway strewn with the bodies of all the
-guards that I'd killed just minutes ago.
+It was silent. No more cries, no more scrambling thoughts, no more screaming.
+
+Peace and quiet. *How tranquil.* A light breeze came through the ajar window,
+the moonlight illuminating the mess that was the study. Papers and books
+scattered on the floor, chairs and desks flipped over. I waded through the mess
+and left the room, walking down the hallway strewn with the bodies of
+unconscious guards.
 
 I walked out the front door of the mansion and stopped.
 
 "The mission?" A rough, deep, masculine voice sounded from my left.
 
-"Completed. No survivors. The message was delivered." I responded in a calm
-tone.
+"Completed. President Brian is dead. The message was delivered." I responded in
+a calm tone.
 
 "Good work, Fem. Let's head to the pickup location." The captain boosted himself
 off the wall he was leaning on and leapt forward, walking down the path towards
@@ -77,23 +54,10 @@ the forest.
 
 I stayed still for a little longer, basking under the comfort of the moonlight.
 Taking a deep breath, I looked down at my left hand. Symbols appeared in glowing
-white glyphs. *r=1.04. t=2.599e12*. Not bad. I started breathing normally again
+white glyphs. *r=1.04. t=1.923696e15*. Not bad. I started breathing normally again
 as I followed the captain into the forest.
 
 **----**
-
-President Cathleen Brian. Newly elected political figure. Extremely high public
-ratings. Mother of 3 kids, and sister of another well known politician. Also my
-latest victim.
-
-I've been an assassin for several years now. Part of a criminal syndicate that
-strived to disrupt any peace or stagnation that may occur throughout the world.
-Political figures, religious leaders, business leaders, corporations, and even
-superheroes were among our many targets. Throughout our civilization's long
-history, we have caused many historical... events, many of which have had
-enormous impacts on human history. To the world, we were known simply as The
-Revenants. Why? Because every time the organization is supposedly squashed or
-destroyed, we appear again, only to cause more chaos.
 
 After the truck picked me and the Captain up at the rendezvous site, I was
 brought to a safe house. Walking in, I beelined towards my room. *4 people. 1
@@ -102,31 +66,18 @@ obnoxious voice hollered at me.
 
 "Hey Fem! How'd it go?"
 
-I ignored him and kept walking towards my room. Azazel sprung out of the couch
-and ran at me.
+I ignored him and kept walking towards my room. He sprung up and walked towards
+me.
 
-"Stop giving me the cold shoulder babe! Talk to me!" He put his hand on my
-shoulder.
+"You okay?" He looked at me with a slightly concerned look.
 
-*Thud!* He dropped on the floor as I spun around swept his feet from under him
-and shove his chest downwards.
+*I'm fine. Just tired.* I told him telepathically.
 
-"I'm not *babe*, Azazel. I'm your teammate, nothing more, nothing less. And stop
-putting on the drunk person act. It's annoying." I said in a low voice into his
-ear.
+"Alright. Orthus and Isaac are here too. Nero's sleeping upstairs."
 
-"Alright, fine. How was the mission? You took a bit longer than usual. You
-aren't losing your touch are you?" He said, in a serious tone, worlds apart than
-his "drunk football jock" voice from before. **If you're losing your touch, I
-*will* kill you.**
+*I know. Thanks Az.*
 
-"Don't worry about it. I wanted some alone time. It was nice out tonight." I
-stood up and held my hand out. He ignored it and propped himself off the ground.
-He walked back into the living room. **I know you can hear me, bitch. Get out of
-my head.**
-
-I smiled. *If you'd stop thinking so loudly, it'd be easier.* I responded,
-telepathically. I went up to the door of my room, and gripped the doorknob. The
+I went up to the door of my room, and gripped the doorknob. The
 lock clicked and released as the biometric scanners on the knob verified my
 identity. Twisting it open, I pushed the oak-disguised steel door open, and shut
 it behind me.
@@ -136,31 +87,48 @@ across the world. A bed with plane white sheets, a non-descript lamp, and a
 small wooden desk and chair were the only pieces of furniture in the tiny room.
 Looking around, I found a closet on the east wall, and a door leading to a
 private bathroom on the north wall. I opened the closet on the right side of the
-room. A few changes of clothes, as well as some extra gear were inside. I took a
+room. A few changes of clothes, as well as some extra gear, were inside. I took a
 set of clothes out, and went into the bathroom.
 
-I took off my sweat-clad clothes and propped my sword on the wall. I set my
-utility belt, filled with knives, poison needles, and other lethal things, on
-the sink counter, and stepped into the shower.
+I took off my sweat-clad clothes and dropped my knives on the ground with a
+thud as the steel hit the ceramic tiles. Opening the glass door, I stepped into
+the shower.
 
-I stood there, leaning on the wall as the comfort of the hot water washed away
-the toils of the day and night. I closed my eyes and put my face under the
-showerhead, shutting off my senses. I felt... uncomfortable. Today was my 82nd
-assassination. But after years of murder and ruthless killing, I still felt the
-same strange sensation that I felt 3 years ago.
+I stood there, leaning on the window in front of me as the hot water hit my
+back, slowly washing away my discomfort. I turned my head slightly and looked
+through the glass door at the pair of knives on the floor: two oversized,
+approximately 1 foot long, steel butterfly knives. The metal was slightly
+tarnished, with some blacked out patches on the handle, but the blade was shiny
+as new.
 
-I was taught to kill my emotions. Any feelings or emotions that I portrayed must
-be an act, with the purpose of manipulation to increase the chance of success of
-the mission. But as a telepath, much the strength of many of my abilities comes
-from emotion. As such, I had to compromise by bottling up any feelings I felt,
-and letting them out when I needed them.
+I closed my eyes and turned around, putting my face under the showerhead,
+shutting off my senses. President Cathleen Brian. Newly elected political
+figure. Extremely high public ratings. The public loved her political standpoint
+and her achievements, given her charisma on the podium, but her private life was
+a completely different story. Mother of 3 kids, and sister of another well known
+politician. She was married to a wealthy businessman, but was having an affair
+with a state senator she had gone to college with. Twenty years ago, she
+secretly funded a gang involved in drug dealing and human trafficking, known as
+The Gold Miners, in exchange for Stupor: an illegal drug that amplifies metagene
+effects. She was also my 82nd victim.
 
-I moved my face away from the showerhead and gasped for air. I leaned on the
-wall and slowly slid downwards until I was sitting on the shower floor. I put
-The warmth of the steady spray of water on my breast, above my heart, felt
-comforting as took deep breaths, trying to calm down. The strange sensation, the
-strange knot I felt in my heart and the dull ache that emanated from my core
-throughtout my body with every heartbeat, slowly went away.
+I had a uncomfortable feeling in my gut: one that I couldn't put a name on. But
+after so many missions, I still had that same exact sensation that I did during
+my first one so many years ago, even if my targets were "secret criminals".
+
+When I was trained, I was taught to kill my emotions. Any feelings or emotions
+that I portrayed must be an act, with the purpose of manipulation to increase
+the chance of success of the mission. But as a telepath, much the strength of
+many of my abilities comes from emotion. As such, I had to compromise by
+bottling up any feelings I felt, treating them as a tool, letting them out only
+when I needed to.
+
+I turned away from the showerhead and gasped for air. I leaned on the windows
+and slowly slid downwards until I was sitting on the shower floor. The warmth of
+the steady spray of water on my breast, above my heart, felt comforting as took
+deep breaths, trying to calm down. The strange sensation, the strange knot I
+felt in my heart and the dull ache that emanated from my core throughtout my
+body with every heartbeat, slowly went away.
 
 **----**
 
@@ -208,8 +176,12 @@ issues@c6907ed5229900b36023c1353f45cbe83ffea3a6.onion.
 </pre>
 </div>
 
-Pretty standard stuff. I set an alarm for 6:30 A.M. and shut off my phone. I
-turned the desk lamp off, and pulled the blanket over my head.
+Somehow, not necessarily by force and not necessarily by choice either, I ended
+up as part of an organization called the Revenants: an underground society of
+assassins, killers, and what-have-you.
+
+I set an alarm for 6:30 A.M. and shut off my phone. I turned the desk lamp off,
+and pulled the blanket over my head.
 
 **----**
 
@@ -265,12 +237,14 @@ briefcase in his hand.
 
 "Hey Orth." I took the briefcase as he handed it to me. "Thanks."
 
+As I was shutting the door, he put his arm out and propped it open.
+
 "Hey Fem, it's Nero's birthday soon. I figured we were all free for the next few
 days. Maybe we could get dinner together." Orthus leaned on the wall in a very
 relaxed fashion.
 
 "Oh yeah, sure! That'll be great!" I mentally reprimanded myself for forgetting
-about Nero. "Yeah I'm free until next Tuesday."
+about such an important day. "Yeah I'm free until next Tuesday."
 
 "Cool." Orthus boosted himself off the wall, in his usual whimsical fashion.
 "Yeah Nero wanted to go to that fried chicken place. Maybe grab a couple beers.
@@ -296,10 +270,10 @@ tonight I think."
 walked away.
 
 Our names: Andromalus, Orthus, Azazel, Isaac, Nero, Lucia, and Fem, were
-codenames given to us by the upper echelon. Our real names were kept hidden from
-everyone, including central command and each other. We used assigned fake
-identities, like the one in the briefcase I was holding, for day-to-day
-activities.
+codenames given to us by the upper echelon of the Revenants. Our real names were
+kept hidden from everyone, including central command and each other. We used
+assigned fake identities, like the one in the briefcase I was holding, for
+day-to-day activities.
 
 I walked over to the bed and threw the briefcase on it. *I'll open you later.*
 Grabbing the pair of jeans I had from yesterday, I went into the pocket and took
@@ -311,7 +285,7 @@ already... What'll happen now?* The IPF was the International Police Force, a
 law enforcement agency that had international jurisdiction and military power.
 The AMP was the Association for Metahuman Policy, a society of humans who, like
 me, had some form of mutation or superpower. These powers were dubbed "metas",
-and all legal metahuman citizens had to be registered with the AMP. The AMP has
+and all legal metahuman citizens had to be registered with the AMP. The AMP had
 the highest decision making power for any metahuman-related event or policy,
 whether it be a law, a crime investigation, or judicial hearing. The AMP was
 divided into several divisions, the main ones being the Internal, Public, and
@@ -327,8 +301,9 @@ investigation between the IPF and the AMP would probably mean involvement of the
 Public and Military divisions.* I stared at the news article on my phone. *If
 any of us got into a battle with the AMP Military, would we make it out alive?*
 I skimmed the rest of the article: "suspected involvment of Revenants", "tire
-tracks discovered in nearby woods", and "18 dead security guards" were among key
-phrases I picked up.
+tracks discovered in nearby woods", "only President Brian dead", and "all
+security guards found unconscious, but unharmed" were among key phrases I picked
+up.
 
 I let out an exasperated sigh and jumped onto my bed. There wasn't any point
 worrying about it now. The job was done. If we got caught and were confronted,
@@ -336,18 +311,19 @@ it would be up to us get out of the situation. The organization known as the
 Revenants gave us all a second chance, and all of us knew were wouldn't get a
 third. Almost nine years ago, my parents were attacked by a foreign military
 group from the Confederacy of Zuxia. They were scientists who were researching
-the cause of metahumans - dubbed 'metagens'. One day, on a car ride back home
-from dinner, our car was hit by a truck, carrying a large amount of flammable
-liquid. After the safety mechanisms of the car engaged and our car stopped
-flipping and rolling, three men wearing masks and what I later learned to be
-Zuxian military uniforms came out and dragged my parents out from our totalled
-car, which was flipped over and on fire, sedating them and taking them away.
+the cause of metahumans - dubbed 'metagens' or 'metagenes'. One day, on a car
+ride back home from dinner, our car was hit by a truck, carrying a large amount
+of flammable liquid. After the safety mechanisms of the car engaged and our car
+stopped flipping and rolling, three men wearing masks and what I later learned
+to be Zuxian military uniforms came out and dragged my parents out from our
+totalled car, which was flipped over and on fire, sedating them and taking them
+away.
 
 I was barely conscious, in the back seat as I watched everything unfold, and I
 remember after police and ambulances arrived, I learned that my right wrist was
 badly sprained and my skull had a hairline fracture. For the next few months, I
 was in shock. Eventually I was let out of the hospital and put under foster care
-for about four months. Days had flown by where I had done nothing but sit on my
+for about four months. Days had flown by where I did done nothing but sit on my
 bed. It was also then when my telepathic powers started to flare up more and
 more. Before, I used to just barely be able to talk to a single person for no
 more than a few sentences. But as the days went by, and after many days of just
@@ -356,19 +332,23 @@ abilities more and more.
 
 At nights, I would enter the minds of the people in the house: my foster
 parents, and their 2 non-adopted kids. I enjoyed looking in to people's dreams,
-experiencing different things. Then one night, when I started to have flashbacks
-of the night my parents were kidnapped, I broke down as reality caught up to me,
-throwing a sucker punch right into my face. My telepathy went rampant throughout
-the house, as I unintentionally pushed my unsuppressed emotions into everyone's
-dreams. Not only did the induced nightmares and mental pain snap everyone awake,
-but my foster parent's 4 year old son went crazy, and in an attempt to make the
-pain stop, jumped out the window of his second floor bedroom, snapping his neck.
-The moment I heard his mother scream in terror and felt her own thoughts and
+experiencing the worlds that their minds created: a medieval world where an 8
+year old boy saved the princess, a mom opening a letter of early admission from
+Harvard.
+
+Then one night, when I started to have flashbacks of the night my parents were
+kidnapped, I broke down as reality caught up to me, like throwing a sucker punch
+right into my face. My telepathy went rampant throughout the house, as I
+unintentionally pushed my unsuppressed emotions into everyone's dreams. Not only
+did the induced nightmares and mental pain snap everyone awake, but my foster
+parent's 4 year old son went crazy, and in an attempt to make the pain stop,
+jumped out the window of his second floor bedroom, snapping his neck.  The
+moment I heard his mother scream in terror and felt her own thoughts and
 emotions fly through my brain, I ran. I ran right out the front door in my
 pajamas, my mind in panic, fear, and terror. I ran down block after block,
 street after street. I didn't know how long I ran before I stopped at a tree to
-prop myself up, and both out of breath and in disgust, I threw up. I sunk down
-to ground: a 9 year old, covered in filth, a mind in terror, an orphan, and now
+prop myself up, both out of breath and in disgust, and threw up. I sunk down to
+the ground: a 9 year old, covered in filth, a mind in terror, an orphan, and now
 a murderer. I tried to catch my breath, and at that moment, I had truly wished
 to die.
 
@@ -390,18 +370,18 @@ finding out, tourists being amazed by every sight they saw, shop owners mentally
 screaming at frustrating customers. It was almost impossible for me to function.
 The briefcase that Orthus had brought me contained a passport, credit card, and
 SIM card. My alias was "Alice Nakamura": Revenant usually issued fake identities
-that matched our actual nationalities. In my case, my father was Japanese, and
-my mother was French. Close enough.
+that matched our actual nationalities. In my case, my father was from Nihon, and
+my mother was Parisia. Close enough.
 
 I wore a loose fitting grey T-shirt, a pair of blue denim short shorts, and a
-black sneakers. My hair was in a loose bun, held together with a hair clip, with
-a long, thin strip of hair flowing down the left side of my face. The hot summer
-sun beamed down on me. *Ugh... it's so hot.* I walked around some more, trying
-to find something interesting to do. I checked the time on my phone: 12:17 PM.
-*I should get some lunch soon, probably. Where am I right now?* I looked
-around for a street sign. *44th and 8th, huh? Wasn't that Italian place on 42nd
-and 8th?* I walked down two blocks, wading through many a tourist group until I
-saw the place: La Trattoria Euphoria.
+black sneakers. My ponytail was twisted into a loose bun, held together with a
+hair clip, with a long, thin strip of hair flowing down the left side of my
+face. The hot summer sun beamed down on me. *Ugh... it's so hot.* I walked
+around some more, trying to find something interesting to do. I checked the time
+on my phone: 12:17 PM.  *I should get some lunch soon, probably. Where am I
+right now?* I looked around for a street sign. *44th and 8th, huh? Wasn't that
+Italian place on 42nd and 8th?* I walked down two blocks, wading through many a
+tourist group until I saw the place: La Trattoria Euphoria.
 
 "Hello there, young lady, would that be a table for one?" The waiter greeted me
 as I entered.
@@ -425,13 +405,13 @@ schoolers who came out to eat for their lunch break.
 I took a look at the menu. After mulling it over, I put the menu back down and
 looked behind me, out the window. I closed my eyes and focused. I let my mind
 open up, allowing the thoughts of everyone within 30 meters of me to coalesce
-with my own. The effect was overwhelming: it took years of practice just to not
+with my own. The effect was overwhelming: it took weeks of practice just to not
 instantly lose consciousness when reading from only 5 people's minds. Right now,
 there were around 80 people passing in and out of my telepathic range. Among
 those, I caught the thought of a waiter, wondering if he should come to my table
 to take my order. I giggle a bit and put my mental gates back up, blocking out
 all the thoughts. Opening my eyes, I acted as if I were looking around for a
-waiter. The waiter who's thoughts I'd read came briskly walking towards my
+waiter. The waiter who's mind I'd just probed came briskly walking towards my
 table.
 
 "Hello there, young miss, my name is Mike and I'll be taking care of you today.
@@ -457,4 +437,4 @@ saying that the IPF and AMP joint investigation was their top priority to bring
 justice on the Revenants. Meanwhile, Vice President Camilla Dustine was given
 the title of President in light of the assassination.
 
-Mike walked over carrying a basket of bread and a plate with butter servings. 
+Mike walked over carrying a basket of bread and a plate with butter servings.
