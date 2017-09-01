@@ -10,12 +10,12 @@ date: 2017-05-21
 corner of the room, eyes wide with fear. Her voice was quivering as she pleaded
 more and more.
 
-*You also have a second lover and a child who isn't your husband's.*
+*Sorry. Orders are orders.*
 
-"Please, no! I promise! I'll give you as much money as you want! I'll give you
-as much political power as I can! Please, don't take me away from my family!"
+"Please, no! I promise! Do you want money? Do you want political power?  Please,
+don't take me away from my family!"
 
-*Like I need money. Or political power. Who even is your family at this point?*
+*I don't want money. Or political money. What I want is...*
 
 She was crying, her mind breaking. I could feel the turmoil of her thoughts, as she
 struggled to accept her impending death.
@@ -437,4 +437,217 @@ saying that the IPF and AMP joint investigation was their top priority to bring
 justice on the Revenants. Meanwhile, Vice President Camilla Dustine was given
 the title of President in light of the assassination.
 
-Mike walked over carrying a basket of bread and a plate with butter servings.
+Mike walked over carrying a basket of bread and a plate with butter servings. I
+smiled at him and gave him a nod of thanks. I picked up a piece of bread and
+began to spread butter over it.
+
+*Hmm... is there something fun I can do today?* I took a few slow bites of the
+bread and absentmindedly began to twirl the butter knife in my hand. There
+wasn't much that entertained me anymore. There were quite a few movie theaters
+in the city, but there weren't any movies that were worth watching. Most of the
+ones playing were remakes of old films or sequels of "bad but good" action
+movies. The nearest amusement park was a while away, and I didn't want to ask
+for a ride to go that far. I could go back to my room and laze about, watching
+internet videos and take a few naps.
+
+My train of thought was suddenly interrupted by a loud, obnoxious laughter.
+A man, probably in his early thirties or late twenties, had walked into the
+restaurant. He wore a sloppy suit, rumpled and crinkled pretty much everywhere.
+He had 2 girls with him, one under each arm.
+
+*This guy can't be serious...* His hands were dangerously high up on the girls'
+waists, almost to the point of grabbing their breasts. One of the girls, the
+blonde on his right, looked like a typical gold digger: face full of makeup,
+glittery clothes, a skirt that was just barely covered her... behind, and
+covered in jewelry. On the other hand, both literally and figuratively, the
+brunette girl on his left looked like she definitely didn't want to be there.
+She was dressed much more modestly, a thin wool sweater draped over her upper
+body, and a pair of typical summer short shorts. Her hands were on his arm,
+trying to push his hand lower or away.
+
+*Typical Grade-A pervert money-douche.* I opened up my mind again, focusing on
+this new group that was just being seated a few tables to my right. The blonde
+was still glued to the guy's arm. The brunette managed to escape his grasp and
+sat down across from the others.
+
+"*His cologne fucking reeks. And his hand is way too high. But eh, free shit is
+free shit.*" The blonde's name was Camille. Damn this girl has no self respect.
+
+"*Why am I doing this? Who's this 'Camille' girl? I want to go home.*" The
+brunette's name was Blaire. Apparently Mr. Grade-A Douchebag asked her on a date
+and surprised her by bringing another girl, and acting completely differently
+than how she first met him.
+
+"*Damn, this girl has nice tits. She looks hot for it too. Maybe I should invite
+her back, go all the way.*" Fabien D'Angelo. There was nothing angelic about
+him. He was a spoiled rich-boy, a pervert, and straight up despicable. The kind
+of person I hate the most. Delving into his mind almost made me puke. Not only
+that... he was a meta. Above-human levels of strength, superhuman levels of
+regeneration, and able to generate immense heat with his hands. I looked up from
+my phone, where I looked him up on the AMP Citizen Registry. His powers were
+pretty common ones, though having them all together made him slightly more
+special than other metas.
+
+Just then, Mike came over with a plate of calamari.
+
+"And here you are, enjoy young miss." He said in a very formal, gentlemanly
+tone. He set the plate down on my table and scurried away to a table waving him
+over. I stuck my fork in a piece of fried squid and put it in my mouth after
+dipping it in the tomato sauce. *I guess I have something mildly amusing to do
+today.* Chewing slowly, I savored the flavor of the meal. It was pretty rare for
+me to eat out: most of the time, I cooked something quick and simple or ate
+whatever the safehouse fridge had inside it. The calamari was quite crispy on
+the outside and the squid had a slightly rubbery texture. It was pretty good,
+though I've always had a thing for fried calamari, so it might have just been my
+personal bias.
+
+I sat there slowly eating my calamari and took out my phone. I browsed around
+for nearby hotels, and found one about 20 minutes out of the city that wasn't
+too expensive for a night. From my phone, I booked a cheap room for tonight.
+As I finished up the payment, Mike walked over again with a steaming plate of
+linguini.
+
+"Linguini with white clam sauce, would you like some pepper with that?" He
+asked, setting down the plate in front of me and took out the pepper grinder he
+had been clutching under his arm.
+
+"Yes please. And could you bring the check now? I'd prefer to pay a bit earlier
+if that's okay with you."
+
+"Alright, will do." He replied, while turning the pepper grinder, sprinkling
+pepper over my pasta. I nodded and motioned for him to stop, and he put the
+grinder back under his arm as he went back to grab the check. I quickly ate the
+rest of the calamari, and refocused my attention back onto Fabien, Camille, and
+Blaire. Douchebag had made his way up and was full on grabbing Camille's breast
+now. Her hand was on top of his, either trying to cover up his scandalous
+actions or keeping his hand there. *What the fuck, is she getting off to this
+shit?* Across the table, Blaire was averting her gaze, her face begging to flush
+red.
+
+"*What the hell, man? I didn't know he was like this...*" Her discomfort was
+showing even more now, her legs crossed, firmly squeezing together
+
+*If this is bothering you, just leave.* I spoke to her telepathically. Her eyes
+widened a bit and her face morphed into a slightly more puzzled expression. Most
+people, when spoken to telepathically without warning, tend to brush it off as
+mentally talking to themselves. She seemed to steel up a bit, her expression
+changing to one of both disappointment and relief. She grabber her phone from
+the table, got up, and walked towards the exit.
+
+As soon as she did, Fabien opened up his mouth to call her back, springing up
+from his seat. *Look to your left.* I pushed a thought into his mind, causing
+him to not say anything, and turn to his left to see me slurping up a strand of
+my pasta, looking directly at him.
+
+"*Oh? What do we have here?*" He made eye contact with me and stared at me for a
+few seconds. Some of the people around him started laughing quietly to
+themselves, and when Camille tugged on his arm, he broke his gaze and sat back
+down. "*Fuck it, Blaire can go fuck off wherever. That chick over there
+though...*"
+
+I smiled to myself. *Game over.*
+
+When Mike finally brought the check over, I paid with my card. This place was
+surprisingly cheap for an Italian restaurant in the middle of the city. When I
+got the receipt and a pen, I wrote the address of the hotel and my room number
+on a napkin, along with writing '9:00 PM' at the bottom. As I was finishing up
+my lunch, I kept glancing at him to see if he would steal glances at me.
+Occasionally, we made eye contact and I would smile at him whenever we did.
+
+When I finished my meal, I got up and folded up the napkin, keeping it between
+my fingers. I left Mike a fairly large tip, and walked towards the exit, but
+passed by Fabien's table. As I walked by, right as he was opening his mouth
+to say something, I dropped the napkin in front of him and continued walking.
+Telepathically, I could feel him unfolding it, reading it, and smiling to
+himself. I glanced back at him staring at me, smiled back, and left the
+restaurant.  *Damn, I'm such a bitch.*
+
+I left the restaurant at around 1 P.M., my heart beating like a machine gun, so
+much so that it hurt. I turned the corner and leaned my back on the wall of the
+first building. I took a few deep breaths, clutching my chest with my both
+hands. It took a few moments for the adrenaline rush to subside, and my heart to
+slow down to a normal rate. A few passersby gave me concerned looks, which I
+dispelled by giving them a weak smile and waving them on. Nowadays, it was rare
+for me to get such a rush out of anything. The blood and adrenaline had blasted
+their way through my body, making me feel slightly feverish and jittery. I took
+a few more deep breaths until the phase subsided. When I felt well enough to
+move around, I boosted myself off the wall and made my way deeper into the city.
+
+I blended in perfectly with the hordes upon hordes of tourists who were roaming
+through the hot summer streets, causing traffic jams galore. I bounced from
+store to store, window shopping. I didn't find much value in spending my
+earnings on clothes I'd either never wear or end up ripping. The food trucks,
+construction, body odors, and occassional alleyway dumpsters made the city have
+a unique peculiar smell, though after just having finished lunch, it was
+slightly unsettling. Making my way through the maze-like grid of buildings, I
+eventually ended up at the hotel.
+
+----
+
+The blaring of the alarm clock jolted me away. 8:00 P.M. I was lying on the
+hotel bed, a book lying open, face down on my chest. I picked it up and plopped
+it on the other side of the bed. Rubbing the drowsiness out of my eyes, I rolled
+out of bed and into the bathroom. I brushed my teeth lazily - to get rid of the
+nap breath - and then walked over to my bag on the TV counter. I brushed my hair
+slowly with one hand while rummaging in the bag with the other. Taking out 2
+long thin needles, I slid one into my hair to hold the bun in place and
+carefully slid the other one into the fabric of my shorts. I sat back down on
+the side of the bed, facing the door, waiting patiently for Fabian to arrive.
+
+A few minutes later, around 8:20, I heard a knock on the door, and felt the
+presence of a very familiar mind outside of it. I smiled to myself and went to
+open the door, taking a deep breath before turning the knob.
+
+"Oh, it's you!" I exclaimed, pretending to be surprised.
+
+"I was just in the area and realized I was close by, and decided to be a bit
+early." He said with a sly smile. "While I do prefer to be fashionably late,
+being early is a wonderful twist, don't you think?"
+
+*What. A. Fucking. Player.* "Sure it is! You caught me off guard though, I'm not
+quite ready to have a guest in yet." I responded, giving him a slight smile.
+
+He seemed to like that as he pushed the door open and walked in, making himself
+comfortable on the bed.
+
+"Oh-hoh! This is a pretty comfortable bed for a hotel. I'm impressed!" He said
+as he laid down.
+
+I gave him another smile and shut the door, locking the deadbolt as well.
+Walking over, I slid over the foot of the bed like a lynx, an action that
+induced a raised eyebrow and yet another sly smile from him.
+
+"Ah, I don't believe we've introduced ourselves. My name is Fabian. My father
+owns a few of the shopping streets here." *Fucking cocky-ass richboy.*
+
+"Oh, you must be pretty loaded then, huh?" I asked, glancing quickly down at the
+bulge that was forming in his pants. "In more ways than one, I see."
+
+That seemed to give him quite the push. He sat up slowly, unbuttoning the top of
+his shirt, and kicking off his shoes. "And what's your name, Miss? You're quite
+the sight to behold, you know." "*And probably better with your clothes off.*"
+
+*Damn, this guy is thirsty.* I giggled a bit. "Thanks, and I don't think telling
+names in a one-night stand is necessary, is it?" I rubbed my neck, tugging the
+collar of my shirt lower. *All things considered, this guy is easy as fuck.*
+
+He gave a tiny shrug as he leaned in towards me, the scent of his cologne
+polluting my airways. "I'm fine with that." He whispered in my ear. I put my
+arms around his neck and leaned into his face. He took that as an invitation and
+pressed his lips against mine, his hands finding their way under my shirt, and
+up towards my breasts.
+
+I winced a bit. *I'll have to take a really long shower after this one.* But
+sacrifices have to be made if I wanted to play along. He started fondling them,
+getting more aggressive as I continued to show a lack of resistance. I let out a
+soft moan as his other hand went lower, going slightly under the waistband of my
+shorts. I grabbed it, stopping his advances down south. *Bitch, that place ain't
+for you.*
+
+"Not yet. Let me do it first." I whispered to him, pushing his hand away and
+inching my own up his leg. He smiled and nodded, leaning back and pulling his
+pants down. To be honest, he was pretty well developed in that area. The bigger
+it is, the bigger their egos, I guess. I rubbed his inner thigh with one hand,
+pulling his pants all the way off with the other. It seemed to stand taller and
+taller the more I touched him.
+
