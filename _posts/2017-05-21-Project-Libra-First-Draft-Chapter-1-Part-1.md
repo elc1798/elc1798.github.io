@@ -649,5 +649,8 @@ inching my own up his leg. He smiled and nodded, leaning back and pulling his
 pants down. To be honest, he was pretty well developed in that area. The bigger
 it is, the bigger their egos, I guess. I rubbed his inner thigh with one hand,
 pulling his pants all the way off with the other. It seemed to stand taller and
-taller the more I touched him.
+taller the more I touched him. After the slightest hesitation, I took it into my
+mouth. *Shit, this is disgusting.*
+
+"*Damn, this girl gives good head.*" His head went backwards as her
 
