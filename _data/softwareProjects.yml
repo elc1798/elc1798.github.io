@@ -1,3 +1,39 @@
+- title: "Alice"
+  link: "https://github.com/elc1798/alice"
+  description: "Digital assistant for Linux, inspired by Cortana, Alexa, and Google Home"
+  created: "2017"
+
+- title: "Secret Garden"
+  link: "https://github.com/elc1798/secret-garden"
+  description: "Password manager with web UI as well as command line interface"
+  created: "2016"
+
+- title: "Life is a Meme"
+  link: "https://github.com/elc1798/project-pepe"
+  description: "An Android app for people to create and share memes made from photos taken from a camera"
+  created: "2017"
+
+- title: "Stuy Vision 2016"
+  link: "https://github.com/Team694/stuy-vision-2016"
+  description: "Code for Team 694's computer vision software during the 2016 FRC season, my year of presidency"
+  created: "2016"
+
+- title: "Keylogger"
+  link: "https://github.com/elc1798/keylogger"
+  description: "A keylogger for Linux systems"
+  created: "2016"
+
+- title: "Shell Locker"
+  link: "https://github.com/elc1798/shell-locker"
+  description: "A Python script for some added security on your shell"
+  created: "2015"
+  pic: "shelllocker.png"
+
+- title: "Stuy Graphics"
+  link: "https://github.com/elc1798/stuy-gfx-utils"
+  description: "A (work in progress) graphics engine currently being developed for my high school Computer Graphics class"
+  created: "2016"
+
 - title: "The Elder Turtle Messaging Service"
   link: "https://github.com/elc1798/elderturtlems"
   description: "A terminal based email service that sends over Gmail using SMTP"
@@ -21,12 +57,6 @@
   description: "A little script that changes the Ubuntu wallpaper to a random picture of a fluffy dog using gsettings"
   created: "2015"
   pic: "fluffy.jpg"
-
-- title: "Shell Locker"
-  link: "https://github.com/elc1798/shell-locker"
-  description: "A Python script for some added security on your shell"
-  created: "2015"
-  pic: "shelllocker.png"
 
 - title: "Revenge of the Octocat"
   link: "https://github.com/elc1798/revenge-of-the-octocat"
@@ -56,25 +86,10 @@
   description: "A (work in progress) shell written in Java. It is planned to be able to support plugins written in Java"
   created: "2015-2016"
 
-- title: "Stuy Graphics"
-  link: "https://github.com/elc1798/stuy-gfx-utils"
-  description: "A (work in progress) graphics engine currently being developed for my high school Computer Graphics class"
-  created: "2016"
-
-- title: "Keylogger"
-  link: "https://github.com/elc1798/keylogger"
-  description: "A keylogger for Linux systems"
-  created: "2016"
-
 - title: "PEGasus1"
   link: "https://github.com/Team694/PEGasus1"
   description: "Code for Team 694's robot during the 2015 FRC season, my year of vice presidency"
   created: "2015"
-
-- title: "Stuy Vision 2016"
-  link: "https://github.com/Team694/stuy-vision-2016"
-  description: "Code for Team 694's computer vision software during the 2016 FRC season, my year of presidency"
-  created: "2016"
 
 - title: "DEStiny"
   link: "https://github.com/Team694/DEStiny"
